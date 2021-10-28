@@ -1,0 +1,26 @@
+{
+  "name": "stattitude",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "babel index.js --out-dir ./bin"
+  },
+  "bin": {
+    "library-stats": "./bin/index.js"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env"
+    ]
+  },
+  "dependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.14.8",
+    "@babel/node": "^7.14.9",
+    "@babel/preset-env": "^7.15.0",
+    "lodash": "^4.17.21",
+    "ts-morph": "^11.0.3",
+    "yargs": "^17.1.0"
+  }
+}

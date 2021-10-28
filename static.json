@@ -1,0 +1,4192 @@
+{
+  "ref-4": {
+    "id": "ref-4",
+    "exportId": "export-2",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LandingPage/PageContent/index.tsx",
+    "name": "Anchor",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 7683,
+    "end": 9587
+  },
+  "ref-7": {
+    "id": "ref-7",
+    "exportId": "export-2",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCareers/PageCareers/DepartmentJobs.tsx",
+    "name": "Anchor",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1178,
+    "end": 1277
+  },
+  "ref-10": {
+    "id": "ref-10",
+    "exportId": "export-2",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/CurriculumCard/index.tsx",
+    "name": "Anchor",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 787,
+    "end": 1051
+  },
+  "ref-13": {
+    "id": "ref-13",
+    "exportId": "export-2",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/StudyUpBlogPosts/index.tsx",
+    "name": "Anchor",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 991,
+    "end": 1539
+  },
+  "ref-16": {
+    "id": "ref-16",
+    "exportId": "export-2",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/StudyUpCheatsheets/index.tsx",
+    "name": "Anchor",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 946,
+    "end": 1178
+  },
+  "ref-22": {
+    "id": "ref-22",
+    "exportId": "export-20",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCareers/PageCareers/DepartmentJobs.tsx",
+    "name": "AccordionArea",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 706,
+    "end": 1346
+  },
+  "ref-26": {
+    "id": "ref-26",
+    "exportId": "export-24",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCareers/PageCareers/DepartmentJobs.tsx",
+    "name": "AccordionButton",
+    "symbol": "FunctionComponent",
+    "kind": "CallExpression",
+    "start": 246,
+    "end": 261
+  },
+  "ref-31": {
+    "id": "ref-31",
+    "exportId": "export-29",
+    "path": "/Users/aaron/workspace/static-sites/gatsby-browser.js",
+    "name": "AppWrapper",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1007,
+    "end": 1041
+  },
+  "ref-34": {
+    "id": "ref-34",
+    "exportId": "export-29",
+    "path": "/Users/aaron/workspace/static-sites/gatsby-ssr.js",
+    "name": "AppWrapper",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 703,
+    "end": 737
+  },
+  "ref-40": {
+    "id": "ref-40",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/components/AppHeader/SearchPane/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 4630,
+    "end": 4736
+  },
+  "ref-43": {
+    "id": "ref-43",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/components/AppHeader/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2294,
+    "end": 2627
+  },
+  "ref-46": {
+    "id": "ref-46",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/shared/AboutSectionContents/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 295,
+    "end": 684
+  },
+  "ref-47": {
+    "id": "ref-47",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/shared/AboutSectionContents/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 439,
+    "end": 628
+  },
+  "ref-51": {
+    "id": "ref-51",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LandingPage/PageContent/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 8239,
+    "end": 8875
+  },
+  "ref-53": {
+    "id": "ref-53",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LandingPage/PageContent/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 8898,
+    "end": 9557
+  },
+  "ref-56": {
+    "id": "ref-56",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCommunity/shared/CommunityContainer/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 371,
+    "end": 466
+  },
+  "ref-59": {
+    "id": "ref-59",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2754,
+    "end": 3062
+  },
+  "ref-62": {
+    "id": "ref-62",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Business/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1260,
+    "end": 2426
+  },
+  "ref-63": {
+    "id": "ref-63",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Business/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1340,
+    "end": 2152
+  },
+  "ref-65": {
+    "id": "ref-65",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Business/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2161,
+    "end": 2383
+  },
+  "ref-69": {
+    "id": "ref-69",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/ChooseYourPlan/Plan.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "CallExpression",
+    "start": 393,
+    "end": 396
+  },
+  "ref-70": {
+    "id": "ref-70",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/ChooseYourPlan/Plan.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1864,
+    "end": 2245
+  },
+  "ref-71": {
+    "id": "ref-71",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/ChooseYourPlan/Plan.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2097,
+    "end": 2221
+  },
+  "ref-75": {
+    "id": "ref-75",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/ChooseYourPlan/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1030,
+    "end": 1721
+  },
+  "ref-78": {
+    "id": "ref-78",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/ProFeaturesGrid/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 798,
+    "end": 1002
+  },
+  "ref-81": {
+    "id": "ref-81",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Team/Testimonial.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "PropertyAccessExpression",
+    "start": 1559,
+    "end": 1563
+  },
+  "ref-82": {
+    "id": "ref-82",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Team/Testimonial.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1885,
+    "end": 1994
+  },
+  "ref-85": {
+    "id": "ref-85",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Team/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 711,
+    "end": 1176
+  },
+  "ref-88": {
+    "id": "ref-88",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2326,
+    "end": 2715
+  },
+  "ref-91": {
+    "id": "ref-91",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Works/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "CallExpression",
+    "start": 1276,
+    "end": 1279
+  },
+  "ref-92": {
+    "id": "ref-92",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Works/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "CallExpression",
+    "start": 1323,
+    "end": 1326
+  },
+  "ref-94": {
+    "id": "ref-94",
+    "exportId": "export-38",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/StudyUpCheatsheets/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 882,
+    "end": 1195
+  },
+  "ref-99": {
+    "id": "ref-99",
+    "exportId": "export-97",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/shared/AboutSectionContents/index.tsx",
+    "name": "FlexBox",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 395,
+    "end": 647
+  },
+  "ref-102": {
+    "id": "ref-102",
+    "exportId": "export-97",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCommunity/shared/CommunityContainer/index.tsx",
+    "name": "FlexBox",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 329,
+    "end": 483
+  },
+  "ref-105": {
+    "id": "ref-105",
+    "exportId": "export-97",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/drawers.tsx",
+    "name": "FlexBox",
+    "symbol": "StyledComponent",
+    "kind": "CallExpression",
+    "start": 512,
+    "end": 519
+  },
+  "ref-106": {
+    "id": "ref-106",
+    "exportId": "export-97",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/drawers.tsx",
+    "name": "FlexBox",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1429,
+    "end": 2741
+  },
+  "ref-108": {
+    "id": "ref-108",
+    "exportId": "export-97",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/drawers.tsx",
+    "name": "FlexBox",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2748,
+    "end": 3483
+  },
+  "ref-111": {
+    "id": "ref-111",
+    "exportId": "export-97",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/editor.tsx",
+    "name": "FlexBox",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 3348,
+    "end": 4288
+  },
+  "ref-114": {
+    "id": "ref-114",
+    "exportId": "export-97",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/ChooseYourPlan/index.tsx",
+    "name": "FlexBox",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1384,
+    "end": 1701
+  },
+  "ref-117": {
+    "id": "ref-117",
+    "exportId": "export-97",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Team/Testimonial.tsx",
+    "name": "FlexBox",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1820,
+    "end": 2184
+  },
+  "ref-120": {
+    "id": "ref-120",
+    "exportId": "export-97",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Team/index.tsx",
+    "name": "FlexBox",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 456,
+    "end": 1191
+  },
+  "ref-123": {
+    "id": "ref-123",
+    "exportId": "export-97",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "FlexBox",
+    "symbol": "StyledComponent",
+    "kind": "CallExpression",
+    "start": 671,
+    "end": 678
+  },
+  "ref-127": {
+    "id": "ref-127",
+    "exportId": "export-125",
+    "path": "/Users/aaron/workspace/static-sites/node_modules/@codecademy/gamut/dist/Alert/Alert.d.ts",
+    "name": "FillButton",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "TypeQuery",
+    "start": 619,
+    "end": 630
+  },
+  "ref-129": {
+    "id": "ref-129",
+    "exportId": "export-125",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/editor.tsx",
+    "name": "FillButton",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxElement",
+    "start": 4159,
+    "end": 4271
+  },
+  "ref-133": {
+    "id": "ref-133",
+    "exportId": "export-131",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/drawers.tsx",
+    "name": "IconButton",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 1671,
+    "end": 1681
+  },
+  "ref-134": {
+    "id": "ref-134",
+    "exportId": "export-131",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/drawers.tsx",
+    "name": "IconButton",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 2355,
+    "end": 2365
+  },
+  "ref-136": {
+    "id": "ref-136",
+    "exportId": "export-131",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/index.tsx",
+    "name": "IconButton",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 2825,
+    "end": 2835
+  },
+  "ref-140": {
+    "id": "ref-140",
+    "exportId": "export-138",
+    "path": "/Users/aaron/workspace/static-sites/src/components/AppHeader/SearchPane/index.tsx",
+    "name": "TextButton",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxElement",
+    "start": 3736,
+    "end": 4280
+  },
+  "ref-142": {
+    "id": "ref-142",
+    "exportId": "export-138",
+    "path": "/Users/aaron/workspace/static-sites/src/components/AppHeader/SearchPane/index.tsx",
+    "name": "TextButton",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxElement",
+    "start": 4342,
+    "end": 4796
+  },
+  "ref-145": {
+    "id": "ref-145",
+    "exportId": "export-138",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/editor.tsx",
+    "name": "TextButton",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxElement",
+    "start": 3522,
+    "end": 3824
+  },
+  "ref-148": {
+    "id": "ref-148",
+    "exportId": "export-147",
+    "path": "/Users/aaron/workspace/static-sites/node_modules/@codecademy/gamut/dist/ButtonDeprecated/index.d.ts",
+    "name": "buttonPresetThemes",
+    "symbol": "Identifier",
+    "kind": "TypeQuery",
+    "start": 539,
+    "end": 558
+  },
+  "ref-151": {
+    "id": "ref-151",
+    "exportId": "export-149",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCommunity/OurCommunity/index.tsx",
+    "name": "ButtonDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 599,
+    "end": 819
+  },
+  "ref-154": {
+    "id": "ref-154",
+    "exportId": "export-149",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCommunity/TheForums/index.tsx",
+    "name": "ButtonDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 819,
+    "end": 1023
+  },
+  "ref-157": {
+    "id": "ref-157",
+    "exportId": "export-149",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/components/Card/index.tsx",
+    "name": "ButtonDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 1140,
+    "end": 1354
+  },
+  "ref-159": {
+    "id": "ref-159",
+    "exportId": "export-149",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/components/Card/index.tsx",
+    "name": "ButtonDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 1368,
+    "end": 1598
+  },
+  "ref-162": {
+    "id": "ref-162",
+    "exportId": "export-149",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/components/EventModule/index.tsx",
+    "name": "ButtonDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 1540,
+    "end": 1745
+  },
+  "ref-165": {
+    "id": "ref-165",
+    "exportId": "export-149",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/components/ProSection/index.tsx",
+    "name": "ButtonDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 976,
+    "end": 1183
+  },
+  "ref-168": {
+    "id": "ref-168",
+    "exportId": "export-149",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/PartnerPage/components/CallToAction/index.tsx",
+    "name": "ButtonDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 695,
+    "end": 937
+  },
+  "ref-171": {
+    "id": "ref-171",
+    "exportId": "export-149",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Business/index.tsx",
+    "name": "ButtonDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 1814,
+    "end": 2137
+  },
+  "ref-174": {
+    "id": "ref-174",
+    "exportId": "export-149",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/ChooseYourPlan/Plan.tsx",
+    "name": "ButtonDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 2253,
+    "end": 2466
+  },
+  "ref-177": {
+    "id": "ref-177",
+    "exportId": "export-149",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/MarketingButton.tsx",
+    "name": "ButtonDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "CallExpression",
+    "start": 213,
+    "end": 229
+  },
+  "ref-179": {
+    "id": "ref-179",
+    "exportId": "export-149",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/CleverCtaCard/index.tsx",
+    "name": "ButtonDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 1019,
+    "end": 1225
+  },
+  "ref-182": {
+    "id": "ref-182",
+    "exportId": "export-149",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/ExtraResourceCard/index.tsx",
+    "name": "ButtonDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 1440,
+    "end": 1663
+  },
+  "ref-185": {
+    "id": "ref-185",
+    "exportId": "export-149",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/SectionTitleAndDescription/index.tsx",
+    "name": "ButtonDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 860,
+    "end": 1247
+  },
+  "ref-188": {
+    "id": "ref-188",
+    "exportId": "export-149",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/LearnTogetherLiveStream/index.tsx",
+    "name": "ButtonDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 1221,
+    "end": 1428
+  },
+  "ref-192": {
+    "id": "ref-192",
+    "exportId": "export-190",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/ProStudentButton/index.tsx",
+    "name": "ButtonDeprecatedBase",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 267,
+    "end": 381
+  },
+  "ref-199": {
+    "id": "ref-199",
+    "exportId": "export-197",
+    "path": "/Users/aaron/workspace/static-sites/src/components/AppHeader/SearchPane/index.tsx",
+    "name": "ContentContainer",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2344,
+    "end": 3380
+  },
+  "ref-201": {
+    "id": "ref-201",
+    "exportId": "export-197",
+    "path": "/Users/aaron/workspace/static-sites/src/components/AppHeader/SearchPane/index.tsx",
+    "name": "ContentContainer",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 3412,
+    "end": 4849
+  },
+  "ref-204": {
+    "id": "ref-204",
+    "exportId": "export-197",
+    "path": "/Users/aaron/workspace/static-sites/src/components/corporate/MarkdownPage/index.tsx",
+    "name": "ContentContainer",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 730,
+    "end": 970
+  },
+  "ref-207": {
+    "id": "ref-207",
+    "exportId": "export-197",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/shared/AboutSectionContents/index.tsx",
+    "name": "ContentContainer",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 368,
+    "end": 673
+  },
+  "ref-210": {
+    "id": "ref-210",
+    "exportId": "export-197",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LandingPage/PageContent/index.tsx",
+    "name": "ContentContainer",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 6123,
+    "end": 11053
+  },
+  "ref-213": {
+    "id": "ref-213",
+    "exportId": "export-197",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCareers/index.tsx",
+    "name": "ContentContainer",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 497,
+    "end": 565
+  },
+  "ref-216": {
+    "id": "ref-216",
+    "exportId": "export-197",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCommunity/shared/CommunityContainer/index.tsx",
+    "name": "ContentContainer",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 277,
+    "end": 507
+  },
+  "ref-219": {
+    "id": "ref-219",
+    "exportId": "export-197",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/index.tsx",
+    "name": "ContentContainer",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1971,
+    "end": 4216
+  },
+  "ref-222": {
+    "id": "ref-222",
+    "exportId": "export-197",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/MobileAppDownload/index.tsx",
+    "name": "ContentContainer",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 790,
+    "end": 1485
+  },
+  "ref-225": {
+    "id": "ref-225",
+    "exportId": "export-197",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Business/index.tsx",
+    "name": "ContentContainer",
+    "symbol": "StyledComponent",
+    "kind": "CallExpression",
+    "start": 720,
+    "end": 736
+  },
+  "ref-227": {
+    "id": "ref-227",
+    "exportId": "export-197",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesBox/index.tsx",
+    "name": "ContentContainer",
+    "symbol": "StyledComponent",
+    "kind": "CallExpression",
+    "start": 914,
+    "end": 930
+  },
+  "ref-229": {
+    "id": "ref-229",
+    "exportId": "export-197",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesDescription/index.tsx",
+    "name": "ContentContainer",
+    "symbol": "StyledComponent",
+    "kind": "CallExpression",
+    "start": 204,
+    "end": 220
+  },
+  "ref-231": {
+    "id": "ref-231",
+    "exportId": "export-197",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "ContentContainer",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 5080,
+    "end": 10736
+  },
+  "ref-235": {
+    "id": "ref-235",
+    "exportId": "export-233",
+    "path": "/Users/aaron/workspace/static-sites/src/components/temporary/SocialMediaShare/index.tsx",
+    "name": "Container",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 1028,
+    "end": 1798
+  },
+  "ref-238": {
+    "id": "ref-238",
+    "exportId": "export-233",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/OurTeam/Members/index.tsx",
+    "name": "Container",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 798,
+    "end": 1065
+  },
+  "ref-240": {
+    "id": "ref-240",
+    "exportId": "export-233",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/OurTeam/Members/index.tsx",
+    "name": "Container",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 1072,
+    "end": 1110
+  },
+  "ref-243": {
+    "id": "ref-243",
+    "exportId": "export-233",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutJob/index.tsx",
+    "name": "Container",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 2262,
+    "end": 2331
+  },
+  "ref-246": {
+    "id": "ref-246",
+    "exportId": "export-233",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/components/ProSection/index.tsx",
+    "name": "Container",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 717,
+    "end": 1200
+  },
+  "ref-249": {
+    "id": "ref-249",
+    "exportId": "export-233",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesBox/index.tsx",
+    "name": "Container",
+    "symbol": "FunctionComponent",
+    "kind": "CallExpression",
+    "start": 303,
+    "end": 312
+  },
+  "ref-251": {
+    "id": "ref-251",
+    "exportId": "export-233",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Works/index.tsx",
+    "name": "Container",
+    "symbol": "FunctionComponent",
+    "kind": "CallExpression",
+    "start": 1417,
+    "end": 1426
+  },
+  "ref-256": {
+    "id": "ref-256",
+    "exportId": "export-254",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/components/Share/index.tsx",
+    "name": "Row",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 530,
+    "end": 1057
+  },
+  "ref-261": {
+    "id": "ref-261",
+    "exportId": "export-259",
+    "path": "/Users/aaron/workspace/static-sites/src/components/AppHeader/SearchPane/index.tsx",
+    "name": "FocusTrap",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 1761,
+    "end": 4900
+  },
+  "ref-270": {
+    "id": "ref-270",
+    "exportId": "export-268",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/languageSelection.tsx",
+    "name": "Select",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "CallExpression",
+    "start": 294,
+    "end": 300
+  },
+  "ref-282": {
+    "id": "ref-282",
+    "exportId": "export-280",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/PartnerPage/components/Form/index.tsx",
+    "name": "GridForm",
+    "symbol": "GridForm",
+    "kind": "JsxSelfClosingElement",
+    "start": 1662,
+    "end": 1670
+  },
+  "ref-285": {
+    "id": "ref-285",
+    "exportId": "export-283",
+    "path": "/Users/aaron/workspace/static-sites/src/pages/404.tsx",
+    "name": "HiddenText",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 710,
+    "end": 754
+  },
+  "ref-289": {
+    "id": "ref-289",
+    "exportId": "export-287",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/AboutAndMission/HalfColumn/index.tsx",
+    "name": "HeadingDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 409,
+    "end": 524
+  },
+  "ref-292": {
+    "id": "ref-292",
+    "exportId": "export-287",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/ComeHelpUs/index.tsx",
+    "name": "HeadingDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 351,
+    "end": 463
+  },
+  "ref-295": {
+    "id": "ref-295",
+    "exportId": "export-287",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/shared/AboutSection/index.tsx",
+    "name": "HeadingDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 446,
+    "end": 557
+  },
+  "ref-298": {
+    "id": "ref-298",
+    "exportId": "export-287",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCommunity/OurCommunity/index.tsx",
+    "name": "HeadingDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 421,
+    "end": 590
+  },
+  "ref-300": {
+    "id": "ref-300",
+    "exportId": "export-287",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCommunity/OurCommunity/index.tsx",
+    "name": "HeadingDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 923,
+    "end": 1115
+  },
+  "ref-303": {
+    "id": "ref-303",
+    "exportId": "export-287",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCommunity/ThankYouMods/index.tsx",
+    "name": "HeadingDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 445,
+    "end": 562
+  },
+  "ref-306": {
+    "id": "ref-306",
+    "exportId": "export-287",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCommunity/TheForums/index.tsx",
+    "name": "HeadingDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 435,
+    "end": 544
+  },
+  "ref-309": {
+    "id": "ref-309",
+    "exportId": "export-287",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/ProFeaturesGrid/index.tsx",
+    "name": "HeadingDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "CallExpression",
+    "start": 306,
+    "end": 323
+  },
+  "ref-311": {
+    "id": "ref-311",
+    "exportId": "export-287",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "HeadingDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "CallExpression",
+    "start": 2019,
+    "end": 2036
+  },
+  "ref-313": {
+    "id": "ref-313",
+    "exportId": "export-287",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/CleverCtaCard/index.tsx",
+    "name": "HeadingDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 675,
+    "end": 867
+  },
+  "ref-316": {
+    "id": "ref-316",
+    "exportId": "export-287",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/CurriculumCard/index.tsx",
+    "name": "HeadingDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 858,
+    "end": 977
+  },
+  "ref-319": {
+    "id": "ref-319",
+    "exportId": "export-287",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/ExtraResourceCard/index.tsx",
+    "name": "HeadingDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 678,
+    "end": 837
+  },
+  "ref-322": {
+    "id": "ref-322",
+    "exportId": "export-287",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/SectionTitleAndDescription/index.tsx",
+    "name": "HeadingDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 547,
+    "end": 709
+  },
+  "ref-325": {
+    "id": "ref-325",
+    "exportId": "export-287",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/ProStudentFeatures/index.tsx",
+    "name": "HeadingDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 1057,
+    "end": 1270
+  },
+  "ref-328": {
+    "id": "ref-328",
+    "exportId": "export-287",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/SectionLabel/index.tsx",
+    "name": "HeadingDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 247,
+    "end": 407
+  },
+  "ref-331": {
+    "id": "ref-331",
+    "exportId": "export-287",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/StudyUpBlogPosts/index.tsx",
+    "name": "HeadingDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 652,
+    "end": 826
+  },
+  "ref-333": {
+    "id": "ref-333",
+    "exportId": "export-287",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/StudyUpBlogPosts/index.tsx",
+    "name": "HeadingDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 1298,
+    "end": 1517
+  },
+  "ref-336": {
+    "id": "ref-336",
+    "exportId": "export-287",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "HeadingDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 5403,
+    "end": 5667
+  },
+  "ref-338": {
+    "id": "ref-338",
+    "exportId": "export-287",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "HeadingDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 5741,
+    "end": 6015
+  },
+  "ref-342": {
+    "id": "ref-342",
+    "exportId": "export-340",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCareers/PageCareers/DepartmentJobs.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 895,
+    "end": 975
+  },
+  "ref-345": {
+    "id": "ref-345",
+    "exportId": "export-340",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCareers/PageCareers/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1240,
+    "end": 1320
+  },
+  "ref-347": {
+    "id": "ref-347",
+    "exportId": "export-340",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCareers/PageCareers/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1395,
+    "end": 1536
+  },
+  "ref-350": {
+    "id": "ref-350",
+    "exportId": "export-340",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2215,
+    "end": 2302
+  },
+  "ref-353": {
+    "id": "ref-353",
+    "exportId": "export-340",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Business/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1592,
+    "end": 1676
+  },
+  "ref-355": {
+    "id": "ref-355",
+    "exportId": "export-340",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Business/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1687,
+    "end": 1803
+  },
+  "ref-358": {
+    "id": "ref-358",
+    "exportId": "export-340",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Callout/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 702,
+    "end": 886
+  },
+  "ref-361": {
+    "id": "ref-361",
+    "exportId": "export-340",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/ChooseYourPlan/Plan.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1785,
+    "end": 1856
+  },
+  "ref-363": {
+    "id": "ref-363",
+    "exportId": "export-340",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/ChooseYourPlan/Plan.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1917,
+    "end": 2019
+  },
+  "ref-366": {
+    "id": "ref-366",
+    "exportId": "export-340",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/ChooseYourPlan/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1113,
+    "end": 1322
+  },
+  "ref-369": {
+    "id": "ref-369",
+    "exportId": "export-340",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Intro/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1225,
+    "end": 1321
+  },
+  "ref-372": {
+    "id": "ref-372",
+    "exportId": "export-340",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Path/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 972,
+    "end": 1056
+  },
+  "ref-375": {
+    "id": "ref-375",
+    "exportId": "export-340",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Team/Testimonial.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2003,
+    "end": 2101
+  },
+  "ref-377": {
+    "id": "ref-377",
+    "exportId": "export-340",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Team/Testimonial.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2110,
+    "end": 2167
+  },
+  "ref-380": {
+    "id": "ref-380",
+    "exportId": "export-340",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Team/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 742,
+    "end": 949
+  },
+  "ref-383": {
+    "id": "ref-383",
+    "exportId": "export-340",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "CallExpression",
+    "start": 1439,
+    "end": 1443
+  },
+  "ref-384": {
+    "id": "ref-384",
+    "exportId": "export-340",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "CallExpression",
+    "start": 1548,
+    "end": 1552
+  },
+  "ref-386": {
+    "id": "ref-386",
+    "exportId": "export-340",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesHeading/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 462,
+    "end": 602
+  },
+  "ref-390": {
+    "id": "ref-390",
+    "exportId": "export-388",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/OurTeam/Members/index.tsx",
+    "name": "TextDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 837,
+    "end": 999
+  },
+  "ref-393": {
+    "id": "ref-393",
+    "exportId": "export-388",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCommunity/OurCommunity/index.tsx",
+    "name": "TextDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 1126,
+    "end": 1480
+  },
+  "ref-396": {
+    "id": "ref-396",
+    "exportId": "export-388",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCommunity/ThankYouMods/ModsTable/index.tsx",
+    "name": "TextDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 468,
+    "end": 704
+  },
+  "ref-398": {
+    "id": "ref-398",
+    "exportId": "export-388",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCommunity/ThankYouMods/ModsTable/index.tsx",
+    "name": "TextDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 776,
+    "end": 875
+  },
+  "ref-400": {
+    "id": "ref-400",
+    "exportId": "export-388",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCommunity/ThankYouMods/ModsTable/index.tsx",
+    "name": "TextDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 948,
+    "end": 1125
+  },
+  "ref-403": {
+    "id": "ref-403",
+    "exportId": "export-388",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCommunity/ThankYouMods/index.tsx",
+    "name": "TextDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 571,
+    "end": 985
+  },
+  "ref-406": {
+    "id": "ref-406",
+    "exportId": "export-388",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/ProFeaturesGrid/index.tsx",
+    "name": "TextDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 941,
+    "end": 987
+  },
+  "ref-409": {
+    "id": "ref-409",
+    "exportId": "export-388",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "TextDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 2835,
+    "end": 2957
+  },
+  "ref-411": {
+    "id": "ref-411",
+    "exportId": "export-388",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "TextDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 3321,
+    "end": 3778
+  },
+  "ref-414": {
+    "id": "ref-414",
+    "exportId": "export-388",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/LearnTogetherChapters/index.tsx",
+    "name": "TextDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 1549,
+    "end": 1714
+  },
+  "ref-417": {
+    "id": "ref-417",
+    "exportId": "export-388",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/ProStudentFeatures/index.tsx",
+    "name": "TextDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 1281,
+    "end": 1404
+  },
+  "ref-421": {
+    "id": "ref-421",
+    "exportId": "export-419",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "HighlightedText",
+    "symbol": "Identifier",
+    "kind": "JsxElement",
+    "start": 2711,
+    "end": 2753
+  },
+  "ref-427": {
+    "id": "ref-427",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/node_modules/@codecademy/gamut/dist/GridForm/GridFormSubmit/index.d.ts",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "TypeQuery",
+    "start": 511,
+    "end": 518
+  },
+  "ref-429": {
+    "id": "ref-429",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/AboutAndMission/HalfColumn/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 319,
+    "end": 591
+  },
+  "ref-432": {
+    "id": "ref-432",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/OurInvestors/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 394,
+    "end": 527
+  },
+  "ref-435": {
+    "id": "ref-435",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/Press/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 444,
+    "end": 565
+  },
+  "ref-438": {
+    "id": "ref-438",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/components/Card/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 793,
+    "end": 985
+  },
+  "ref-440": {
+    "id": "ref-440",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/components/Card/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 992,
+    "end": 1625
+  },
+  "ref-443": {
+    "id": "ref-443",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/components/EventModule/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 977,
+    "end": 1135
+  },
+  "ref-445": {
+    "id": "ref-445",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/components/EventModule/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1142,
+    "end": 1761
+  },
+  "ref-448": {
+    "id": "ref-448",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2146,
+    "end": 2414
+  },
+  "ref-450": {
+    "id": "ref-450",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2427,
+    "end": 2687
+  },
+  "ref-452": {
+    "id": "ref-452",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2700,
+    "end": 2935
+  },
+  "ref-454": {
+    "id": "ref-454",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2948,
+    "end": 3083
+  },
+  "ref-456": {
+    "id": "ref-456",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 3120,
+    "end": 3242
+  },
+  "ref-458": {
+    "id": "ref-458",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 3458,
+    "end": 3748
+  },
+  "ref-460": {
+    "id": "ref-460",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 3777,
+    "end": 4139
+  },
+  "ref-463": {
+    "id": "ref-463",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/MobileAppDownload/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 976,
+    "end": 1128
+  },
+  "ref-465": {
+    "id": "ref-465",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/MobileAppDownload/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1141,
+    "end": 1433
+  },
+  "ref-468": {
+    "id": "ref-468",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/PartnerPage/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1868,
+    "end": 2120
+  },
+  "ref-470": {
+    "id": "ref-470",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/PartnerPage/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 2136,
+    "end": 2142
+  },
+  "ref-471": {
+    "id": "ref-471",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/PartnerPage/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2266,
+    "end": 2539
+  },
+  "ref-473": {
+    "id": "ref-473",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/PartnerPage/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2571,
+    "end": 2808
+  },
+  "ref-475": {
+    "id": "ref-475",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/PartnerPage/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2840,
+    "end": 3573
+  },
+  "ref-477": {
+    "id": "ref-477",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/PartnerPage/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 3874,
+    "end": 3988
+  },
+  "ref-479": {
+    "id": "ref-479",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/PartnerPage/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 4005,
+    "end": 4210
+  },
+  "ref-481": {
+    "id": "ref-481",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/PartnerPage/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 4227,
+    "end": 4611
+  },
+  "ref-483": {
+    "id": "ref-483",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/PartnerPage/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 4925,
+    "end": 5188
+  },
+  "ref-485": {
+    "id": "ref-485",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/PartnerPage/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 5205,
+    "end": 5488
+  },
+  "ref-488": {
+    "id": "ref-488",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/ProFeaturesGrid/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "CallExpression",
+    "start": 244,
+    "end": 250
+  },
+  "ref-490": {
+    "id": "ref-490",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "CallExpression",
+    "start": 2310,
+    "end": 2316
+  },
+  "ref-491": {
+    "id": "ref-491",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2569,
+    "end": 3817
+  },
+  "ref-494": {
+    "id": "ref-494",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Path/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "CallExpression",
+    "start": 625,
+    "end": 631
+  },
+  "ref-496": {
+    "id": "ref-496",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/CleverCtaCard/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 634,
+    "end": 883
+  },
+  "ref-498": {
+    "id": "ref-498",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/CleverCtaCard/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 890,
+    "end": 1241
+  },
+  "ref-501": {
+    "id": "ref-501",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/LearnTogetherLiveStream/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 886,
+    "end": 1060
+  },
+  "ref-503": {
+    "id": "ref-503",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/LearnTogetherLiveStream/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1067,
+    "end": 1444
+  },
+  "ref-506": {
+    "id": "ref-506",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/ProStudentFeatures/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 917,
+    "end": 1435
+  },
+  "ref-509": {
+    "id": "ref-509",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/StudyUpBlogPosts/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 921,
+    "end": 1559
+  },
+  "ref-512": {
+    "id": "ref-512",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 5241,
+    "end": 6239
+  },
+  "ref-514": {
+    "id": "ref-514",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 6252,
+    "end": 6481
+  },
+  "ref-516": {
+    "id": "ref-516",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 6494,
+    "end": 6594
+  },
+  "ref-518": {
+    "id": "ref-518",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 6607,
+    "end": 6732
+  },
+  "ref-520": {
+    "id": "ref-520",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 6745,
+    "end": 6862
+  },
+  "ref-522": {
+    "id": "ref-522",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 6875,
+    "end": 6978
+  },
+  "ref-524": {
+    "id": "ref-524",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 7020,
+    "end": 7195
+  },
+  "ref-526": {
+    "id": "ref-526",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 7223,
+    "end": 7634
+  },
+  "ref-528": {
+    "id": "ref-528",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 7647,
+    "end": 7846
+  },
+  "ref-530": {
+    "id": "ref-530",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 7859,
+    "end": 7963
+  },
+  "ref-532": {
+    "id": "ref-532",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 7976,
+    "end": 8366
+  },
+  "ref-534": {
+    "id": "ref-534",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 8425,
+    "end": 8878
+  },
+  "ref-536": {
+    "id": "ref-536",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 8908,
+    "end": 8914
+  },
+  "ref-537": {
+    "id": "ref-537",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 9016,
+    "end": 9149
+  },
+  "ref-539": {
+    "id": "ref-539",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 9210,
+    "end": 9519
+  },
+  "ref-541": {
+    "id": "ref-541",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 9547,
+    "end": 9644
+  },
+  "ref-543": {
+    "id": "ref-543",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 9657,
+    "end": 9918
+  },
+  "ref-545": {
+    "id": "ref-545",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 9953,
+    "end": 10187
+  },
+  "ref-547": {
+    "id": "ref-547",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 10215,
+    "end": 10319
+  },
+  "ref-549": {
+    "id": "ref-549",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 10368,
+    "end": 10501
+  },
+  "ref-551": {
+    "id": "ref-551",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 10530,
+    "end": 10587
+  },
+  "ref-553": {
+    "id": "ref-553",
+    "exportId": "export-425",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 10600,
+    "end": 10684
+  },
+  "ref-557": {
+    "id": "ref-557",
+    "exportId": "export-555",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/AboutAndMission/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 548,
+    "end": 803
+  },
+  "ref-560": {
+    "id": "ref-560",
+    "exportId": "export-555",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/OurInvestors/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 657,
+    "end": 760
+  },
+  "ref-563": {
+    "id": "ref-563",
+    "exportId": "export-555",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/Press/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 388,
+    "end": 593
+  },
+  "ref-566": {
+    "id": "ref-566",
+    "exportId": "export-555",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/components/Card/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 757,
+    "end": 1643
+  },
+  "ref-569": {
+    "id": "ref-569",
+    "exportId": "export-555",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/components/EventModule/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 903,
+    "end": 1779
+  },
+  "ref-572": {
+    "id": "ref-572",
+    "exportId": "export-555",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2010,
+    "end": 3282
+  },
+  "ref-574": {
+    "id": "ref-574",
+    "exportId": "export-555",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LearnFromHomeHub/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 3293,
+    "end": 4163
+  },
+  "ref-577": {
+    "id": "ref-577",
+    "exportId": "export-555",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/MobileAppDownload/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 819,
+    "end": 1457
+  },
+  "ref-580": {
+    "id": "ref-580",
+    "exportId": "export-555",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/PartnerPage/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1800,
+    "end": 3599
+  },
+  "ref-582": {
+    "id": "ref-582",
+    "exportId": "export-555",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/PartnerPage/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 3804,
+    "end": 4639
+  },
+  "ref-584": {
+    "id": "ref-584",
+    "exportId": "export-555",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/PartnerPage/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 4855,
+    "end": 5516
+  },
+  "ref-587": {
+    "id": "ref-587",
+    "exportId": "export-555",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/ProFeaturesGrid/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 403,
+    "end": 1048
+  },
+  "ref-590": {
+    "id": "ref-590",
+    "exportId": "export-555",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2546,
+    "end": 3944
+  },
+  "ref-593": {
+    "id": "ref-593",
+    "exportId": "export-555",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Path/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 899,
+    "end": 1166
+  },
+  "ref-596": {
+    "id": "ref-596",
+    "exportId": "export-555",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/CleverCtaCard/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 556,
+    "end": 1259
+  },
+  "ref-599": {
+    "id": "ref-599",
+    "exportId": "export-555",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/LearnTogetherLiveStream/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 862,
+    "end": 1462
+  },
+  "ref-602": {
+    "id": "ref-602",
+    "exportId": "export-555",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/ProStudentFeatures/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 849,
+    "end": 1459
+  },
+  "ref-605": {
+    "id": "ref-605",
+    "exportId": "export-555",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/StudyUpBlogPosts/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 833,
+    "end": 1591
+  },
+  "ref-608": {
+    "id": "ref-608",
+    "exportId": "export-555",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 5109,
+    "end": 10708
+  },
+  "ref-612": {
+    "id": "ref-612",
+    "exportId": "export-610",
+    "path": "/Users/aaron/workspace/static-sites/src/components/Description/index.tsx",
+    "name": "Markdown",
+    "symbol": "Markdown",
+    "kind": "JsxSelfClosingElement",
+    "start": 277,
+    "end": 285
+  },
+  "ref-614": {
+    "id": "ref-614",
+    "exportId": "export-610",
+    "path": "/Users/aaron/workspace/static-sites/src/components/corporate/MarkdownPage/index.tsx",
+    "name": "Markdown",
+    "symbol": "Markdown",
+    "kind": "JsxSelfClosingElement",
+    "start": 795,
+    "end": 803
+  },
+  "ref-616": {
+    "id": "ref-616",
+    "exportId": "export-610",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/AboutAndMission/HalfColumn/index.tsx",
+    "name": "Markdown",
+    "symbol": "Markdown",
+    "kind": "JsxSelfClosingElement",
+    "start": 534,
+    "end": 542
+  },
+  "ref-618": {
+    "id": "ref-618",
+    "exportId": "export-610",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/ComeHelpUs/index.tsx",
+    "name": "Markdown",
+    "symbol": "Markdown",
+    "kind": "JsxSelfClosingElement",
+    "start": 471,
+    "end": 479
+  },
+  "ref-620": {
+    "id": "ref-620",
+    "exportId": "export-610",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/OurOffice/index.tsx",
+    "name": "Markdown",
+    "symbol": "Markdown",
+    "kind": "JsxSelfClosingElement",
+    "start": 581,
+    "end": 589
+  },
+  "ref-622": {
+    "id": "ref-622",
+    "exportId": "export-610",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/PressKit/index.tsx",
+    "name": "Markdown",
+    "symbol": "Markdown",
+    "kind": "JsxSelfClosingElement",
+    "start": 362,
+    "end": 370
+  },
+  "ref-624": {
+    "id": "ref-624",
+    "exportId": "export-610",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/MobileAppDownload/index.tsx",
+    "name": "Markdown",
+    "symbol": "Markdown",
+    "kind": "JsxSelfClosingElement",
+    "start": 1221,
+    "end": 1229
+  },
+  "ref-625": {
+    "id": "ref-625",
+    "exportId": "export-610",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/MobileAppDownload/index.tsx",
+    "name": "Markdown",
+    "symbol": "Markdown",
+    "kind": "JsxSelfClosingElement",
+    "start": 1298,
+    "end": 1306
+  },
+  "ref-627": {
+    "id": "ref-627",
+    "exportId": "export-610",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Callout/index.tsx",
+    "name": "Markdown",
+    "symbol": "Markdown",
+    "kind": "CallExpression",
+    "start": 477,
+    "end": 485
+  },
+  "ref-629": {
+    "id": "ref-629",
+    "exportId": "export-610",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Intro/index.tsx",
+    "name": "Markdown",
+    "symbol": "Markdown",
+    "kind": "JsxSelfClosingElement",
+    "start": 1331,
+    "end": 1339
+  },
+  "ref-631": {
+    "id": "ref-631",
+    "exportId": "export-610",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Path/index.tsx",
+    "name": "Markdown",
+    "symbol": "Markdown",
+    "kind": "CallExpression",
+    "start": 749,
+    "end": 757
+  },
+  "ref-633": {
+    "id": "ref-633",
+    "exportId": "export-610",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/CurriculumCard/index.tsx",
+    "name": "Markdown",
+    "symbol": "Markdown",
+    "kind": "JsxSelfClosingElement",
+    "start": 701,
+    "end": 709
+  },
+  "ref-634": {
+    "id": "ref-634",
+    "exportId": "export-610",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/CurriculumCard/index.tsx",
+    "name": "Markdown",
+    "symbol": "Markdown",
+    "kind": "JsxSelfClosingElement",
+    "start": 1059,
+    "end": 1067
+  },
+  "ref-636": {
+    "id": "ref-636",
+    "exportId": "export-610",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/ExtraResourceCard/index.tsx",
+    "name": "Markdown",
+    "symbol": "Markdown",
+    "kind": "JsxSelfClosingElement",
+    "start": 1288,
+    "end": 1296
+  },
+  "ref-638": {
+    "id": "ref-638",
+    "exportId": "export-610",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/SectionTitleAndDescription/index.tsx",
+    "name": "Markdown",
+    "symbol": "Markdown",
+    "kind": "JsxSelfClosingElement",
+    "start": 715,
+    "end": 723
+  },
+  "ref-640": {
+    "id": "ref-640",
+    "exportId": "export-610",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "Markdown",
+    "symbol": "Markdown",
+    "kind": "JsxSelfClosingElement",
+    "start": 6033,
+    "end": 6041
+  },
+  "ref-653": {
+    "id": "ref-653",
+    "exportId": "export-651",
+    "path": "/Users/aaron/workspace/static-sites/src/components/shared/PageContainer/index.tsx",
+    "name": "SkipToContent",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 800,
+    "end": 813
+  },
+  "ref-656": {
+    "id": "ref-656",
+    "exportId": "export-654",
+    "path": "/Users/aaron/workspace/static-sites/src/components/shared/PageContainer/index.tsx",
+    "name": "SkipToContentTarget",
+    "symbol": "StyledComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 901,
+    "end": 920
+  },
+  "ref-659": {
+    "id": "ref-659",
+    "exportId": "export-657",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/editor.tsx",
+    "name": "Spinner",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 4230,
+    "end": 4237
+  },
+  "ref-667": {
+    "id": "ref-667",
+    "exportId": "export-665",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/editor.tsx",
+    "name": "ToolTip",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 3404,
+    "end": 4150
+  },
+  "ref-675": {
+    "id": "ref-675",
+    "exportId": "export-673",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/components/ExtraResourceCard/index.tsx",
+    "name": "Video",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 867,
+    "end": 872
+  },
+  "ref-685": {
+    "id": "ref-685",
+    "exportId": "export-683",
+    "path": "/Users/aaron/workspace/static-sites/gatsby-browser.js",
+    "name": "GamutProvider",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 880,
+    "end": 1225
+  },
+  "ref-688": {
+    "id": "ref-688",
+    "exportId": "export-683",
+    "path": "/Users/aaron/workspace/static-sites/gatsby-ssr.js",
+    "name": "GamutProvider",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 630,
+    "end": 756
+  },
+  "ref-696": {
+    "id": "ref-696",
+    "exportId": "export-694",
+    "path": "/Users/aaron/workspace/static-sites/node_modules/@codecademy/gamut-styles/dist/Background.d.ts",
+    "name": "ColorMode",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "TypeQuery",
+    "start": 163,
+    "end": 173
+  },
+  "ref-699": {
+    "id": "ref-699",
+    "exportId": "export-697",
+    "path": "/Users/aaron/workspace/static-sites/src/components/shared/PageContainer/index.tsx",
+    "name": "Background",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxElement",
+    "start": 689,
+    "end": 1055
+  },
+  "ref-702": {
+    "id": "ref-702",
+    "exportId": "export-697",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/languageSelection.tsx",
+    "name": "Background",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxElement",
+    "start": 838,
+    "end": 1154
+  },
+  "ref-705": {
+    "id": "ref-705",
+    "exportId": "export-697",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/index.tsx",
+    "name": "Background",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "CallExpression",
+    "start": 1087,
+    "end": 1097
+  },
+  "ref-707": {
+    "id": "ref-707",
+    "exportId": "export-697",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Callout/index.tsx",
+    "name": "Background",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxElement",
+    "start": 651,
+    "end": 992
+  },
+  "ref-715": {
+    "id": "ref-715",
+    "exportId": "export-713",
+    "path": "/Users/aaron/workspace/static-sites/gatsby-browser.js",
+    "name": "createEmotionCache",
+    "symbol": "Identifier",
+    "kind": "CallExpression",
+    "start": 909,
+    "end": 927
+  },
+  "ref-717": {
+    "id": "ref-717",
+    "exportId": "export-713",
+    "path": "/Users/aaron/workspace/static-sites/gatsby-ssr.js",
+    "name": "createEmotionCache",
+    "symbol": "Identifier",
+    "kind": "CallExpression",
+    "start": 557,
+    "end": 576
+  },
+  "ref-724": {
+    "id": "ref-724",
+    "exportId": "export-723",
+    "path": "/Users/aaron/workspace/static-sites/node_modules/@codecademy/gamut-styles/dist/variables/responsive.d.ts",
+    "name": "breakpoints",
+    "symbol": "Identifier",
+    "kind": "TypeQuery",
+    "start": 216,
+    "end": 228
+  },
+  "ref-727": {
+    "id": "ref-727",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/MarketingButton.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 290,
+    "end": 302
+  },
+  "ref-729": {
+    "id": "ref-729",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Intro/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 953,
+    "end": 965
+  },
+  "ref-731": {
+    "id": "ref-731",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/FloatingHeads/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 372,
+    "end": 384
+  },
+  "ref-732": {
+    "id": "ref-732",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/FloatingHeads/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 510,
+    "end": 522
+  },
+  "ref-733": {
+    "id": "ref-733",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/FloatingHeads/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1424,
+    "end": 1436
+  },
+  "ref-734": {
+    "id": "ref-734",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/FloatingHeads/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1637,
+    "end": 1649
+  },
+  "ref-735": {
+    "id": "ref-735",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/FloatingHeads/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1787,
+    "end": 1799
+  },
+  "ref-737": {
+    "id": "ref-737",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1303,
+    "end": 1315
+  },
+  "ref-738": {
+    "id": "ref-738",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1370,
+    "end": 1382
+  },
+  "ref-739": {
+    "id": "ref-739",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1766,
+    "end": 1778
+  },
+  "ref-740": {
+    "id": "ref-740",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1950,
+    "end": 1962
+  },
+  "ref-741": {
+    "id": "ref-741",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 2100,
+    "end": 2112
+  },
+  "ref-743": {
+    "id": "ref-743",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Path/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 665,
+    "end": 677
+  },
+  "ref-744": {
+    "id": "ref-744",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Path/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 764,
+    "end": 776
+  },
+  "ref-746": {
+    "id": "ref-746",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Profile/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 682,
+    "end": 694
+  },
+  "ref-747": {
+    "id": "ref-747",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Profile/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1032,
+    "end": 1044
+  },
+  "ref-748": {
+    "id": "ref-748",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Profile/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1220,
+    "end": 1232
+  },
+  "ref-749": {
+    "id": "ref-749",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Profile/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1264,
+    "end": 1276
+  },
+  "ref-750": {
+    "id": "ref-750",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Profile/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1407,
+    "end": 1419
+  },
+  "ref-751": {
+    "id": "ref-751",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Profile/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1556,
+    "end": 1568
+  },
+  "ref-752": {
+    "id": "ref-752",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Profile/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1621,
+    "end": 1633
+  },
+  "ref-754": {
+    "id": "ref-754",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Team/Testimonial.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1187,
+    "end": 1199
+  },
+  "ref-755": {
+    "id": "ref-755",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Team/Testimonial.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1259,
+    "end": 1271
+  },
+  "ref-757": {
+    "id": "ref-757",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesBox/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 342,
+    "end": 354
+  },
+  "ref-758": {
+    "id": "ref-758",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesBox/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 439,
+    "end": 451
+  },
+  "ref-759": {
+    "id": "ref-759",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesBox/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 739,
+    "end": 751
+  },
+  "ref-760": {
+    "id": "ref-760",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesBox/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 787,
+    "end": 799
+  },
+  "ref-761": {
+    "id": "ref-761",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesBox/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1013,
+    "end": 1025
+  },
+  "ref-763": {
+    "id": "ref-763",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 771,
+    "end": 783
+  },
+  "ref-764": {
+    "id": "ref-764",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 838,
+    "end": 850
+  },
+  "ref-765": {
+    "id": "ref-765",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1001,
+    "end": 1013
+  },
+  "ref-766": {
+    "id": "ref-766",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1197,
+    "end": 1209
+  },
+  "ref-767": {
+    "id": "ref-767",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1336,
+    "end": 1348
+  },
+  "ref-769": {
+    "id": "ref-769",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesHeading/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 299,
+    "end": 311
+  },
+  "ref-771": {
+    "id": "ref-771",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Works/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1527,
+    "end": 1539
+  },
+  "ref-772": {
+    "id": "ref-772",
+    "exportId": "export-725",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Works/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1642,
+    "end": 1654
+  },
+  "ref-775": {
+    "id": "ref-775",
+    "exportId": "export-773",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "contentWidths",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1684,
+    "end": 1697
+  },
+  "ref-778": {
+    "id": "ref-778",
+    "exportId": "export-776",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 1648,
+    "end": 1655
+  },
+  "ref-779": {
+    "id": "ref-779",
+    "exportId": "export-776",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 1803,
+    "end": 1810
+  },
+  "ref-780": {
+    "id": "ref-780",
+    "exportId": "export-776",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 1832,
+    "end": 1839
+  },
+  "ref-781": {
+    "id": "ref-781",
+    "exportId": "export-776",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 2051,
+    "end": 2058
+  },
+  "ref-782": {
+    "id": "ref-782",
+    "exportId": "export-776",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 2066,
+    "end": 2073
+  },
+  "ref-783": {
+    "id": "ref-783",
+    "exportId": "export-776",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 2081,
+    "end": 2088
+  },
+  "ref-784": {
+    "id": "ref-784",
+    "exportId": "export-776",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 2182,
+    "end": 2189
+  },
+  "ref-786": {
+    "id": "ref-786",
+    "exportId": "export-776",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesBox/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 381,
+    "end": 388
+  },
+  "ref-787": {
+    "id": "ref-787",
+    "exportId": "export-776",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesBox/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 416,
+    "end": 423
+  },
+  "ref-788": {
+    "id": "ref-788",
+    "exportId": "export-776",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesBox/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 1047,
+    "end": 1054
+  },
+  "ref-789": {
+    "id": "ref-789",
+    "exportId": "export-776",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesBox/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 1062,
+    "end": 1069
+  },
+  "ref-791": {
+    "id": "ref-791",
+    "exportId": "export-776",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 752,
+    "end": 759
+  },
+  "ref-792": {
+    "id": "ref-792",
+    "exportId": "export-776",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 982,
+    "end": 989
+  },
+  "ref-793": {
+    "id": "ref-793",
+    "exportId": "export-776",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 1111,
+    "end": 1118
+  },
+  "ref-794": {
+    "id": "ref-794",
+    "exportId": "export-776",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 1284,
+    "end": 1291
+  },
+  "ref-796": {
+    "id": "ref-796",
+    "exportId": "export-776",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Works/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 968,
+    "end": 975
+  },
+  "ref-797": {
+    "id": "ref-797",
+    "exportId": "export-776",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Works/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 1493,
+    "end": 1500
+  },
+  "ref-798": {
+    "id": "ref-798",
+    "exportId": "export-776",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Works/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 1508,
+    "end": 1515
+  },
+  "ref-799": {
+    "id": "ref-799",
+    "exportId": "export-776",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Works/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 1564,
+    "end": 1571
+  },
+  "ref-800": {
+    "id": "ref-800",
+    "exportId": "export-776",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Works/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 1675,
+    "end": 1682
+  },
+  "ref-808": {
+    "id": "ref-808",
+    "exportId": "export-806",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Callout/index.tsx",
+    "name": "fontSize",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 503,
+    "end": 511
+  },
+  "ref-814": {
+    "id": "ref-814",
+    "exportId": "export-812",
+    "path": "/Users/aaron/workspace/static-sites/src/components/AppHeader/index.tsx",
+    "name": "elements",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 2363,
+    "end": 2371
+  },
+  "ref-815": {
+    "id": "ref-815",
+    "exportId": "export-812",
+    "path": "/Users/aaron/workspace/static-sites/src/components/AppHeader/index.tsx",
+    "name": "elements",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 2408,
+    "end": 2416
+  },
+  "ref-819": {
+    "id": "ref-819",
+    "exportId": "export-817",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/FloatingHeads/index.tsx",
+    "name": "brandColors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 943,
+    "end": 954
+  },
+  "ref-820": {
+    "id": "ref-820",
+    "exportId": "export-817",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/FloatingHeads/index.tsx",
+    "name": "brandColors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1208,
+    "end": 1219
+  },
+  "ref-821": {
+    "id": "ref-821",
+    "exportId": "export-817",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/FloatingHeads/index.tsx",
+    "name": "brandColors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1537,
+    "end": 1548
+  },
+  "ref-822": {
+    "id": "ref-822",
+    "exportId": "export-817",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/FloatingHeads/index.tsx",
+    "name": "brandColors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 2007,
+    "end": 2018
+  },
+  "ref-824": {
+    "id": "ref-824",
+    "exportId": "export-817",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Profile/index.tsx",
+    "name": "brandColors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 533,
+    "end": 544
+  },
+  "ref-825": {
+    "id": "ref-825",
+    "exportId": "export-817",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Profile/index.tsx",
+    "name": "brandColors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 823,
+    "end": 834
+  },
+  "ref-827": {
+    "id": "ref-827",
+    "exportId": "export-817",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Team/Testimonial.tsx",
+    "name": "brandColors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1492,
+    "end": 1504
+  },
+  "ref-828": {
+    "id": "ref-828",
+    "exportId": "export-817",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Team/Testimonial.tsx",
+    "name": "brandColors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1510,
+    "end": 1522
+  },
+  "ref-832": {
+    "id": "ref-832",
+    "exportId": "export-830",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/MonacoEditor/colorsDark.ts",
+    "name": "editorColors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 503,
+    "end": 516
+  },
+  "ref-833": {
+    "id": "ref-833",
+    "exportId": "export-830",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/MonacoEditor/colorsDark.ts",
+    "name": "editorColors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 536,
+    "end": 549
+  },
+  "ref-834": {
+    "id": "ref-834",
+    "exportId": "export-830",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/MonacoEditor/colorsDark.ts",
+    "name": "editorColors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 569,
+    "end": 582
+  },
+  "ref-835": {
+    "id": "ref-835",
+    "exportId": "export-830",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/MonacoEditor/colorsDark.ts",
+    "name": "editorColors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 597,
+    "end": 610
+  },
+  "ref-836": {
+    "id": "ref-836",
+    "exportId": "export-830",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/MonacoEditor/colorsDark.ts",
+    "name": "editorColors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 627,
+    "end": 640
+  },
+  "ref-837": {
+    "id": "ref-837",
+    "exportId": "export-830",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/MonacoEditor/colorsDark.ts",
+    "name": "editorColors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 658,
+    "end": 671
+  },
+  "ref-838": {
+    "id": "ref-838",
+    "exportId": "export-830",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/MonacoEditor/colorsDark.ts",
+    "name": "editorColors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 686,
+    "end": 699
+  },
+  "ref-839": {
+    "id": "ref-839",
+    "exportId": "export-830",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/MonacoEditor/colorsDark.ts",
+    "name": "editorColors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 737,
+    "end": 750
+  },
+  "ref-844": {
+    "id": "ref-844",
+    "exportId": "export-842",
+    "path": "/Users/aaron/workspace/static-sites/node_modules/@codecademy/gamut-labs/dist/ProLogo/index.d.ts",
+    "name": "colors",
+    "symbol": "Identifier",
+    "kind": "TypeQuery",
+    "start": 163,
+    "end": 170
+  },
+  "ref-845": {
+    "id": "ref-845",
+    "exportId": "export-842",
+    "path": "/Users/aaron/workspace/static-sites/node_modules/@codecademy/gamut-labs/dist/ProLogo/index.d.ts",
+    "name": "colors",
+    "symbol": "Identifier",
+    "kind": "TypeQuery",
+    "start": 346,
+    "end": 353
+  },
+  "ref-847": {
+    "id": "ref-847",
+    "exportId": "export-842",
+    "path": "/Users/aaron/workspace/static-sites/node_modules/@codecademy/gamut-labs/dist/ProLogoAlt/index.d.ts",
+    "name": "colors",
+    "symbol": "Identifier",
+    "kind": "TypeQuery",
+    "start": 176,
+    "end": 183
+  },
+  "ref-848": {
+    "id": "ref-848",
+    "exportId": "export-842",
+    "path": "/Users/aaron/workspace/static-sites/node_modules/@codecademy/gamut-labs/dist/ProLogoAlt/index.d.ts",
+    "name": "colors",
+    "symbol": "Identifier",
+    "kind": "TypeQuery",
+    "start": 213,
+    "end": 220
+  },
+  "ref-850": {
+    "id": "ref-850",
+    "exportId": "export-842",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/MonacoEditor/colorsDark.ts",
+    "name": "colors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 713,
+    "end": 720
+  },
+  "ref-852": {
+    "id": "ref-852",
+    "exportId": "export-842",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/editor.tsx",
+    "name": "colors",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 766,
+    "end": 772
+  },
+  "ref-854": {
+    "id": "ref-854",
+    "exportId": "export-842",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/MarketingButton.tsx",
+    "name": "colors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 248,
+    "end": 254
+  },
+  "ref-856": {
+    "id": "ref-856",
+    "exportId": "export-842",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/ProFeaturesGrid/features.tsx",
+    "name": "colors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 373,
+    "end": 380
+  },
+  "ref-857": {
+    "id": "ref-857",
+    "exportId": "export-842",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/ProFeaturesGrid/features.tsx",
+    "name": "colors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 555,
+    "end": 562
+  },
+  "ref-858": {
+    "id": "ref-858",
+    "exportId": "export-842",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/ProFeaturesGrid/features.tsx",
+    "name": "colors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 752,
+    "end": 759
+  },
+  "ref-859": {
+    "id": "ref-859",
+    "exportId": "export-842",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/ProFeaturesGrid/features.tsx",
+    "name": "colors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 960,
+    "end": 967
+  },
+  "ref-861": {
+    "id": "ref-861",
+    "exportId": "export-842",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesBox/index.tsx",
+    "name": "colors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 949,
+    "end": 955
+  },
+  "ref-863": {
+    "id": "ref-863",
+    "exportId": "export-842",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "colors",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 1475,
+    "end": 1481
+  },
+  "ref-866": {
+    "id": "ref-866",
+    "exportId": "export-864",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesBox/index.tsx",
+    "name": "pxRem",
+    "symbol": "Identifier",
+    "kind": "CallExpression",
+    "start": 506,
+    "end": 511
+  },
+  "ref-867": {
+    "id": "ref-867",
+    "exportId": "export-864",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesBox/index.tsx",
+    "name": "pxRem",
+    "symbol": "Identifier",
+    "kind": "CallExpression",
+    "start": 546,
+    "end": 551
+  },
+  "ref-868": {
+    "id": "ref-868",
+    "exportId": "export-864",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesBox/index.tsx",
+    "name": "pxRem",
+    "symbol": "Identifier",
+    "kind": "CallExpression",
+    "start": 653,
+    "end": 658
+  },
+  "ref-869": {
+    "id": "ref-869",
+    "exportId": "export-864",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesBox/index.tsx",
+    "name": "pxRem",
+    "symbol": "Identifier",
+    "kind": "CallExpression",
+    "start": 721,
+    "end": 726
+  },
+  "ref-870": {
+    "id": "ref-870",
+    "exportId": "export-864",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesBox/index.tsx",
+    "name": "pxRem",
+    "symbol": "Identifier",
+    "kind": "CallExpression",
+    "start": 832,
+    "end": 837
+  },
+  "ref-871": {
+    "id": "ref-871",
+    "exportId": "export-864",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesBox/index.tsx",
+    "name": "pxRem",
+    "symbol": "Identifier",
+    "kind": "CallExpression",
+    "start": 870,
+    "end": 875
+  },
+  "ref-873": {
+    "id": "ref-873",
+    "exportId": "export-864",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesDescription/index.tsx",
+    "name": "pxRem",
+    "symbol": "Identifier",
+    "kind": "CallExpression",
+    "start": 327,
+    "end": 332
+  },
+  "ref-875": {
+    "id": "ref-875",
+    "exportId": "export-864",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "pxRem",
+    "symbol": "Identifier",
+    "kind": "CallExpression",
+    "start": 1252,
+    "end": 1257
+  },
+  "ref-876": {
+    "id": "ref-876",
+    "exportId": "export-864",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "pxRem",
+    "symbol": "Identifier",
+    "kind": "CallExpression",
+    "start": 1315,
+    "end": 1320
+  },
+  "ref-878": {
+    "id": "ref-878",
+    "exportId": "export-864",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Works/index.tsx",
+    "name": "pxRem",
+    "symbol": "Identifier",
+    "kind": "CallExpression",
+    "start": 1115,
+    "end": 1120
+  },
+  "ref-879": {
+    "id": "ref-879",
+    "exportId": "export-864",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Works/index.tsx",
+    "name": "pxRem",
+    "symbol": "Identifier",
+    "kind": "CallExpression",
+    "start": 1349,
+    "end": 1354
+  },
+  "ref-880": {
+    "id": "ref-880",
+    "exportId": "export-864",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Works/index.tsx",
+    "name": "pxRem",
+    "symbol": "Identifier",
+    "kind": "CallExpression",
+    "start": 1692,
+    "end": 1697
+  },
+  "ref-888": {
+    "id": "ref-888",
+    "exportId": "export-886",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Intro/index.tsx",
+    "name": "noSelect",
+    "symbol": "SerializedStyles",
+    "kind": "TemplateSpan",
+    "start": 876,
+    "end": 884
+  },
+  "ref-889": {
+    "id": "ref-889",
+    "exportId": "export-886",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Intro/index.tsx",
+    "name": "noSelect",
+    "symbol": "SerializedStyles",
+    "kind": "TemplateSpan",
+    "start": 938,
+    "end": 946
+  },
+  "ref-891": {
+    "id": "ref-891",
+    "exportId": "export-886",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/FloatingHeads/index.tsx",
+    "name": "noSelect",
+    "symbol": "SerializedStyles",
+    "kind": "TemplateSpan",
+    "start": 567,
+    "end": 575
+  },
+  "ref-903": {
+    "id": "ref-903",
+    "exportId": "export-901",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/languageSelection.tsx",
+    "name": "themed",
+    "symbol": "themed",
+    "kind": "CallExpression",
+    "start": 334,
+    "end": 340
+  },
+  "ref-904": {
+    "id": "ref-904",
+    "exportId": "export-901",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/languageSelection.tsx",
+    "name": "themed",
+    "symbol": "themed",
+    "kind": "CallExpression",
+    "start": 383,
+    "end": 389
+  },
+  "ref-905": {
+    "id": "ref-905",
+    "exportId": "export-901",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/languageSelection.tsx",
+    "name": "themed",
+    "symbol": "themed",
+    "kind": "CallExpression",
+    "start": 431,
+    "end": 437
+  },
+  "ref-906": {
+    "id": "ref-906",
+    "exportId": "export-901",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/languageSelection.tsx",
+    "name": "themed",
+    "symbol": "themed",
+    "kind": "CallExpression",
+    "start": 520,
+    "end": 526
+  },
+  "ref-907": {
+    "id": "ref-907",
+    "exportId": "export-901",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/languageSelection.tsx",
+    "name": "themed",
+    "symbol": "themed",
+    "kind": "CallExpression",
+    "start": 603,
+    "end": 609
+  },
+  "ref-909": {
+    "id": "ref-909",
+    "exportId": "export-901",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/ChooseYourPlan/Plan.tsx",
+    "name": "themed",
+    "symbol": "themed",
+    "kind": "CallExpression",
+    "start": 728,
+    "end": 734
+  },
+  "ref-910": {
+    "id": "ref-910",
+    "exportId": "export-901",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/ChooseYourPlan/Plan.tsx",
+    "name": "themed",
+    "symbol": "themed",
+    "kind": "CallExpression",
+    "start": 904,
+    "end": 910
+  },
+  "ref-911": {
+    "id": "ref-911",
+    "exportId": "export-901",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/ChooseYourPlan/Plan.tsx",
+    "name": "themed",
+    "symbol": "themed",
+    "kind": "CallExpression",
+    "start": 940,
+    "end": 946
+  },
+  "ref-913": {
+    "id": "ref-913",
+    "exportId": "export-901",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/ChooseYourPlan/index.tsx",
+    "name": "themed",
+    "symbol": "themed",
+    "kind": "CallExpression",
+    "start": 733,
+    "end": 739
+  },
+  "ref-927": {
+    "id": "ref-927",
+    "exportId": "export-926",
+    "path": "/Users/aaron/workspace/static-sites/node_modules/@codecademy/gamut-styles/dist/index.d.ts",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "ExportSpecifier",
+    "start": 340,
+    "end": 350
+  },
+  "ref-928": {
+    "id": "ref-928",
+    "exportId": "export-926",
+    "path": "/Users/aaron/workspace/static-sites/node_modules/@codecademy/gamut-styles/dist/themes/core.d.ts",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "TypeQuery",
+    "start": 8805,
+    "end": 8815
+  },
+  "ref-929": {
+    "id": "ref-929",
+    "exportId": "export-926",
+    "path": "/Users/aaron/workspace/static-sites/node_modules/@codecademy/gamut-styles/dist/index.d.ts",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "ExportSpecifier",
+    "start": 353,
+    "end": 359
+  },
+  "ref-931": {
+    "id": "ref-931",
+    "exportId": "export-926",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LandingPage/PageContent/index.tsx",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 987,
+    "end": 992
+  },
+  "ref-932": {
+    "id": "ref-932",
+    "exportId": "export-926",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LandingPage/PageContent/index.tsx",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1134,
+    "end": 1139
+  },
+  "ref-934": {
+    "id": "ref-934",
+    "exportId": "export-926",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/ChooseYourPlan/Plan.tsx",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 635,
+    "end": 640
+  },
+  "ref-936": {
+    "id": "ref-936",
+    "exportId": "export-926",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesDescription/index.tsx",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 240,
+    "end": 245
+  },
+  "ref-938": {
+    "id": "ref-938",
+    "exportId": "export-926",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1628,
+    "end": 1634
+  },
+  "ref-939": {
+    "id": "ref-939",
+    "exportId": "export-926",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1668,
+    "end": 1674
+  },
+  "ref-940": {
+    "id": "ref-940",
+    "exportId": "export-926",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1724,
+    "end": 1730
+  },
+  "ref-941": {
+    "id": "ref-941",
+    "exportId": "export-926",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 1773,
+    "end": 1779
+  },
+  "ref-943": {
+    "id": "ref-943",
+    "exportId": "export-926",
+    "path": "/Users/aaron/workspace/static-sites/gatsby-browser.js",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "JsxExpression",
+    "start": 970,
+    "end": 975
+  },
+  "ref-945": {
+    "id": "ref-945",
+    "exportId": "export-926",
+    "path": "/Users/aaron/workspace/static-sites/gatsby-ssr.js",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "JsxExpression",
+    "start": 669,
+    "end": 674
+  },
+  "ref-947": {
+    "id": "ref-947",
+    "exportId": "export-946",
+    "path": "/Users/aaron/workspace/static-sites/node_modules/@codecademy/gamut-styles/dist/themes/platform.d.ts",
+    "name": "platformTheme",
+    "symbol": "Identifier",
+    "kind": "TypeQuery",
+    "start": 12373,
+    "end": 12387
+  },
+  "ref-950": {
+    "id": "ref-950",
+    "exportId": "export-948",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LandingPage/PageContent/index.tsx",
+    "name": "PageHero",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 6227,
+    "end": 6235
+  },
+  "ref-953": {
+    "id": "ref-953",
+    "exportId": "export-951",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LandingPage/PageContent/index.tsx",
+    "name": "PageFeatures",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 6778,
+    "end": 6790
+  },
+  "ref-956": {
+    "id": "ref-956",
+    "exportId": "export-954",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LandingPage/PageContent/index.tsx",
+    "name": "PagePrefooter",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 10565,
+    "end": 10578
+  },
+  "ref-959": {
+    "id": "ref-959",
+    "exportId": "export-957",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LandingPage/PageContent/index.tsx",
+    "name": "PageVideoGallery",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 9702,
+    "end": 9718
+  },
+  "ref-964": {
+    "id": "ref-964",
+    "exportId": "export-962",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/StudentCenter/index.tsx",
+    "name": "useBreakpointAtOrBelow",
+    "symbol": "useBreakpointAtOrBelow",
+    "kind": "CallExpression",
+    "start": 4899,
+    "end": 4922
+  },
+  "ref-966": {
+    "id": "ref-966",
+    "exportId": "export-965",
+    "path": "/Users/aaron/workspace/static-sites/node_modules/@codecademy/gamut-labs/dist/lib/breakpointHooks/index.d.ts",
+    "name": "breakpoints",
+    "symbol": "Identifier",
+    "kind": "TypeQuery",
+    "start": 1167,
+    "end": 1179
+  },
+  "ref-978": {
+    "id": "ref-978",
+    "exportId": "export-976",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/OurTeam/Members/index.tsx",
+    "name": "Loading",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 1025,
+    "end": 1032
+  },
+  "ref-980": {
+    "id": "ref-980",
+    "exportId": "export-976",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutCareers/PageCareers/index.tsx",
+    "name": "Loading",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 1353,
+    "end": 1360
+  },
+  "ref-982": {
+    "id": "ref-982",
+    "exportId": "export-976",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/AboutJob/index.tsx",
+    "name": "Loading",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 2296,
+    "end": 2303
+  },
+  "ref-984": {
+    "id": "ref-984",
+    "exportId": "export-976",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/Policy/index.tsx",
+    "name": "Loading",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 904,
+    "end": 911
+  },
+  "ref-986": {
+    "id": "ref-986",
+    "exportId": "export-976",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/ChooseYourPlan/index.tsx",
+    "name": "Loading",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 1362,
+    "end": 1369
+  },
+  "ref-988": {
+    "id": "ref-988",
+    "exportId": "export-976",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/Terms/index.tsx",
+    "name": "Loading",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 901,
+    "end": 908
+  },
+  "ref-990": {
+    "id": "ref-990",
+    "exportId": "export-989",
+    "path": "/Users/aaron/workspace/static-sites/node_modules/@codecademy/gamut-labs/dist/Logo/index.d.ts",
+    "name": "Logo",
+    "symbol": "Logo",
+    "kind": "ModuleDeclaration",
+    "start": 367,
+    "end": 372
+  },
+  "ref-992": {
+    "id": "ref-992",
+    "exportId": "export-989",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/index.tsx",
+    "name": "Logo",
+    "symbol": "Logo",
+    "kind": "CallExpression",
+    "start": 1902,
+    "end": 1906
+  },
+  "ref-998": {
+    "id": "ref-998",
+    "exportId": "export-996",
+    "path": "/Users/aaron/workspace/static-sites/src/components/shared/LearnerTestimonial/index.tsx",
+    "name": "Testimonial",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 1249,
+    "end": 1260
+  },
+  "ref-1000": {
+    "id": "ref-1000",
+    "exportId": "export-996",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LandingPage/PageContent/index.tsx",
+    "name": "Testimonial",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 8308,
+    "end": 8319
+  },
+  "ref-1001": {
+    "id": "ref-1001",
+    "exportId": "export-996",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/LandingPage/PageContent/index.tsx",
+    "name": "Testimonial",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 8967,
+    "end": 8978
+  },
+  "ref-1020": {
+    "id": "ref-1020",
+    "exportId": "export-1018",
+    "path": "/Users/aaron/workspace/static-sites/src/components/CodecademyFooter/index.tsx",
+    "name": "GlobalFooter",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 304,
+    "end": 316
+  },
+  "ref-1023": {
+    "id": "ref-1023",
+    "exportId": "export-1021",
+    "path": "/Users/aaron/workspace/static-sites/src/components/AppHeader/index.tsx",
+    "name": "GlobalHeader",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 1405,
+    "end": 1417
+  },
+  "ref-1024": {
+    "id": "ref-1024",
+    "exportId": "export-1021",
+    "path": "/Users/aaron/workspace/static-sites/src/components/AppHeader/index.tsx",
+    "name": "GlobalHeader",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 1964,
+    "end": 1976
+  },
+  "ref-1025": {
+    "id": "ref-1025",
+    "exportId": "export-1021",
+    "path": "/Users/aaron/workspace/static-sites/src/components/AppHeader/index.tsx",
+    "name": "GlobalHeader",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 2698,
+    "end": 2710
+  },
+  "ref-1036": {
+    "id": "ref-1036",
+    "exportId": "export-1034",
+    "path": "/Users/aaron/workspace/static-sites/node_modules/@codecademy/gamut/dist/Form/Input.d.ts",
+    "name": "AlertIcon",
+    "symbol": "StyledComponent",
+    "kind": "TypeQuery",
+    "start": 1149,
+    "end": 1159
+  },
+  "ref-1043": {
+    "id": "ref-1043",
+    "exportId": "export-1041",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/drawers.tsx",
+    "name": "ArrowChevronLeftIcon",
+    "symbol": "StyledComponent",
+    "kind": "CallExpression",
+    "start": 324,
+    "end": 344
+  },
+  "ref-1046": {
+    "id": "ref-1046",
+    "exportId": "export-1044",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/drawers.tsx",
+    "name": "ArrowChevronRightIcon",
+    "symbol": "StyledComponent",
+    "kind": "CallExpression",
+    "start": 465,
+    "end": 486
+  },
+  "ref-1060": {
+    "id": "ref-1060",
+    "exportId": "export-1058",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "BrowserPageLayoutIcon",
+    "symbol": "StyledComponent",
+    "kind": "ArrayLiteralExpression",
+    "start": 1606,
+    "end": 1627
+  },
+  "ref-1074": {
+    "id": "ref-1074",
+    "exportId": "export-1072",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "ClockIcon",
+    "symbol": "StyledComponent",
+    "kind": "ArrayLiteralExpression",
+    "start": 1658,
+    "end": 1667
+  },
+  "ref-1081": {
+    "id": "ref-1081",
+    "exportId": "export-1079",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/ProFeaturesGrid/features.tsx",
+    "name": "ConversationChatIcon",
+    "symbol": "StyledComponent",
+    "kind": "PropertyAssignment",
+    "start": 923,
+    "end": 944
+  },
+  "ref-1084": {
+    "id": "ref-1084",
+    "exportId": "export-1082",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/editor.tsx",
+    "name": "CopyIcon",
+    "symbol": "StyledComponent",
+    "kind": "CallExpression",
+    "start": 826,
+    "end": 834
+  },
+  "ref-1096": {
+    "id": "ref-1096",
+    "exportId": "export-1094",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/ProFeaturesGrid/features.tsx",
+    "name": "ExperienceIcon",
+    "symbol": "StyledComponent",
+    "kind": "PropertyAssignment",
+    "start": 524,
+    "end": 539
+  },
+  "ref-1098": {
+    "id": "ref-1098",
+    "exportId": "export-1094",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "ExperienceIcon",
+    "symbol": "StyledComponent",
+    "kind": "ArrayLiteralExpression",
+    "start": 1758,
+    "end": 1772
+  },
+  "ref-1102": {
+    "id": "ref-1102",
+    "exportId": "export-1100",
+    "path": "/Users/aaron/workspace/static-sites/src/components/temporary/SocialMediaShare/constants.ts",
+    "name": "FacebookIcon",
+    "symbol": "StyledComponent",
+    "kind": "PropertyAssignment",
+    "start": 776,
+    "end": 789
+  },
+  "ref-1105": {
+    "id": "ref-1105",
+    "exportId": "export-1103",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/CodeByteEditor/index.tsx",
+    "name": "FaviconIcon",
+    "symbol": "StyledComponent",
+    "kind": "JsxExpression",
+    "start": 2854,
+    "end": 2865
+  },
+  "ref-1113": {
+    "id": "ref-1113",
+    "exportId": "export-1111",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/ProFeaturesGrid/features.tsx",
+    "name": "FileLockIcon",
+    "symbol": "StyledComponent",
+    "kind": "PropertyAssignment",
+    "start": 344,
+    "end": 357
+  },
+  "ref-1120": {
+    "id": "ref-1120",
+    "exportId": "export-1118",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/shared/FeaturesGrid/index.tsx",
+    "name": "FitnessDumbbellIcon",
+    "symbol": "StyledComponent",
+    "kind": "ArrayLiteralExpression",
+    "start": 1704,
+    "end": 1723
+  },
+  "ref-1140": {
+    "id": "ref-1140",
+    "exportId": "export-1138",
+    "path": "/Users/aaron/workspace/static-sites/src/components/temporary/SocialMediaShare/constants.ts",
+    "name": "InstagramIcon",
+    "symbol": "StyledComponent",
+    "kind": "PropertyAssignment",
+    "start": 1160,
+    "end": 1174
+  },
+  "ref-1151": {
+    "id": "ref-1151",
+    "exportId": "export-1149",
+    "path": "/Users/aaron/workspace/static-sites/src/components/temporary/SocialMediaShare/constants.ts",
+    "name": "LinkedinIcon",
+    "symbol": "StyledComponent",
+    "kind": "PropertyAssignment",
+    "start": 1354,
+    "end": 1367
+  },
+  "ref-1161": {
+    "id": "ref-1161",
+    "exportId": "export-1159",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/ProMembership/sections/Landing/ProFeaturesGrid/features.tsx",
+    "name": "MapPinIcon",
+    "symbol": "StyledComponent",
+    "kind": "PropertyAssignment",
+    "start": 725,
+    "end": 736
+  },
+  "ref-1183": {
+    "id": "ref-1183",
+    "exportId": "export-1181",
+    "path": "/Users/aaron/workspace/static-sites/src/templates/About/OurTeam/Member/index.tsx",
+    "name": "PersonIcon",
+    "symbol": "StyledComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 763,
+    "end": 773
+  },
+  "ref-1207": {
+    "id": "ref-1207",
+    "exportId": "export-1205",
+    "path": "/Users/aaron/workspace/static-sites/src/components/AppHeader/MobileSearchBar/index.tsx",
+    "name": "SearchIcon",
+    "symbol": "StyledComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 1281,
+    "end": 1291
+  },
+  "ref-1209": {
+    "id": "ref-1209",
+    "exportId": "export-1205",
+    "path": "/Users/aaron/workspace/static-sites/src/components/AppHeader/SearchButton/index.tsx",
+    "name": "SearchIcon",
+    "symbol": "StyledComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 710,
+    "end": 720
+  },
+  "ref-1211": {
+    "id": "ref-1211",
+    "exportId": "export-1205",
+    "path": "/Users/aaron/workspace/static-sites/src/components/AppHeader/SearchPane/index.tsx",
+    "name": "SearchIcon",
+    "symbol": "StyledComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 2532,
+    "end": 2542
+  },
+  "ref-1221": {
+    "id": "ref-1221",
+    "exportId": "export-1219",
+    "path": "/Users/aaron/workspace/static-sites/src/components/AppHeader/SearchPane/index.tsx",
+    "name": "SupportIcon",
+    "symbol": "StyledComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 4687,
+    "end": 4698
+  },
+  "ref-1228": {
+    "id": "ref-1228",
+    "exportId": "export-1226",
+    "path": "/Users/aaron/workspace/static-sites/src/components/temporary/SocialMediaShare/constants.ts",
+    "name": "TwitterIcon",
+    "symbol": "StyledComponent",
+    "kind": "PropertyAssignment",
+    "start": 985,
+    "end": 997
+  }
+}

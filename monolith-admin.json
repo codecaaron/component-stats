@@ -1,0 +1,2502 @@
+{
+  "ref-4": {
+    "id": "ref-4",
+    "exportId": "export-2",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/SubscriptionEditor/SubscriptionConverter.tsx",
+    "name": "Anchor",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 941,
+    "end": 1042
+  },
+  "ref-6": {
+    "id": "ref-6",
+    "exportId": "export-2",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/SubscriptionEditor/SubscriptionConverter.tsx",
+    "name": "Anchor",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1272,
+    "end": 1453
+  },
+  "ref-9": {
+    "id": "ref-9",
+    "exportId": "export-2",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Error500Contents/index.tsx",
+    "name": "Anchor",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 719,
+    "end": 819
+  },
+  "ref-13": {
+    "id": "ref-13",
+    "exportId": "export-11",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/state/alerts/types.ts",
+    "name": "Alert",
+    "symbol": "FunctionComponent",
+    "kind": "TypeQuery",
+    "start": 132,
+    "end": 138
+  },
+  "ref-15": {
+    "id": "ref-15",
+    "exportId": "export-11",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Admin/AdminErrors/index.tsx",
+    "name": "Alert",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 476,
+    "end": 613
+  },
+  "ref-18": {
+    "id": "ref-18",
+    "exportId": "export-11",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestPlan/components/Results/index.tsx",
+    "name": "Alert",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 416,
+    "end": 541
+  },
+  "ref-20": {
+    "id": "ref-20",
+    "exportId": "export-11",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestPlan/components/Results/index.tsx",
+    "name": "Alert",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 657,
+    "end": 1032
+  },
+  "ref-23": {
+    "id": "ref-23",
+    "exportId": "export-11",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/FormResult/index.tsx",
+    "name": "Alert",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 406,
+    "end": 605
+  },
+  "ref-25": {
+    "id": "ref-25",
+    "exportId": "export-11",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/FormResult/index.tsx",
+    "name": "Alert",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 736,
+    "end": 1216
+  },
+  "ref-28": {
+    "id": "ref-28",
+    "exportId": "export-11",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/PrefillStatus/index.tsx",
+    "name": "Alert",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 439,
+    "end": 1067
+  },
+  "ref-32": {
+    "id": "ref-32",
+    "exportId": "export-30",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestPlan/components/Instructions/index.tsx",
+    "name": "Accordion",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 435,
+    "end": 1192
+  },
+  "ref-35": {
+    "id": "ref-35",
+    "exportId": "export-30",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Instructions/index.tsx",
+    "name": "Accordion",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 429,
+    "end": 2450
+  },
+  "ref-43": {
+    "id": "ref-43",
+    "exportId": "export-41",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/libs/withEmotion.tsx",
+    "name": "AppWrapper",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 655,
+    "end": 724
+  },
+  "ref-49": {
+    "id": "ref-49",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/node_modules/@codecademy/gamut/dist/Pattern/index.d.ts",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "TypeQuery",
+    "start": 312,
+    "end": 316
+  },
+  "ref-51": {
+    "id": "ref-51",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Notifications/NotificationBell/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1622,
+    "end": 1968
+  },
+  "ref-54": {
+    "id": "ref-54",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Notifications/NotificationsList/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "CallExpression",
+    "start": 940,
+    "end": 943
+  },
+  "ref-55": {
+    "id": "ref-55",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Notifications/NotificationsList/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "CallExpression",
+    "start": 1098,
+    "end": 1101
+  },
+  "ref-56": {
+    "id": "ref-56",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Notifications/NotificationsList/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2531,
+    "end": 2626
+  },
+  "ref-58": {
+    "id": "ref-58",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Notifications/NotificationsList/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2670,
+    "end": 2948
+  },
+  "ref-61": {
+    "id": "ref-61",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/AppHeader/useAppHeaderProps.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 4171,
+    "end": 4508
+  },
+  "ref-64": {
+    "id": "ref-64",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Admin/AdminErrors/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 432,
+    "end": 624
+  },
+  "ref-67": {
+    "id": "ref-67",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Admin/AdminCell/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 610,
+    "end": 639
+  },
+  "ref-70": {
+    "id": "ref-70",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/RolesSummary/EditableUserField/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1025,
+    "end": 1944
+  },
+  "ref-73": {
+    "id": "ref-73",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/TypeEditor/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 743,
+    "end": 2325
+  },
+  "ref-74": {
+    "id": "ref-74",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/TypeEditor/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1118,
+    "end": 1815
+  },
+  "ref-76": {
+    "id": "ref-76",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/TypeEditor/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1826,
+    "end": 2298
+  },
+  "ref-80": {
+    "id": "ref-80",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/FeatureFlags/GlobalFeatureFlags/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 322,
+    "end": 584
+  },
+  "ref-83": {
+    "id": "ref-83",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestPlan/components/Results/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 329,
+    "end": 554
+  },
+  "ref-85": {
+    "id": "ref-85",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestPlan/components/Results/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 596,
+    "end": 1045
+  },
+  "ref-88": {
+    "id": "ref-88",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/FormResult/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 345,
+    "end": 618
+  },
+  "ref-90": {
+    "id": "ref-90",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/FormResult/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 661,
+    "end": 1229
+  },
+  "ref-93": {
+    "id": "ref-93",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/PrefillStatus/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 395,
+    "end": 1078
+  },
+  "ref-96": {
+    "id": "ref-96",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Error500Contents/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 359,
+    "end": 1237
+  },
+  "ref-97": {
+    "id": "ref-97",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Error500Contents/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 540,
+    "end": 652
+  },
+  "ref-99": {
+    "id": "ref-99",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Error500Contents/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 845,
+    "end": 1228
+  },
+  "ref-100": {
+    "id": "ref-100",
+    "exportId": "export-47",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Error500Contents/index.tsx",
+    "name": "Box",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 905,
+    "end": 972
+  },
+  "ref-107": {
+    "id": "ref-107",
+    "exportId": "export-105",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Notifications/NotificationsList/index.tsx",
+    "name": "FlexBox",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2027,
+    "end": 2484
+  },
+  "ref-110": {
+    "id": "ref-110",
+    "exportId": "export-105",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Notifications/NotificationsDropdown/index.tsx",
+    "name": "FlexBox",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1268,
+    "end": 1770
+  },
+  "ref-112": {
+    "id": "ref-112",
+    "exportId": "export-105",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Notifications/NotificationsDropdown/index.tsx",
+    "name": "FlexBox",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2020,
+    "end": 2266
+  },
+  "ref-115": {
+    "id": "ref-115",
+    "exportId": "export-105",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Notifications/index.tsx",
+    "name": "FlexBox",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1674,
+    "end": 2119
+  },
+  "ref-120": {
+    "id": "ref-120",
+    "exportId": "export-118",
+    "path": "/Users/aaron/workspace/Codecademy/node_modules/@codecademy/gamut/dist/Alert/Alert.d.ts",
+    "name": "FillButton",
+    "symbol": "StyledComponent",
+    "kind": "TypeQuery",
+    "start": 619,
+    "end": 630
+  },
+  "ref-122": {
+    "id": "ref-122",
+    "exportId": "export-118",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/RolesSummary/DeletedAccountForm/index.tsx",
+    "name": "FillButton",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 761,
+    "end": 857
+  },
+  "ref-125": {
+    "id": "ref-125",
+    "exportId": "export-118",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/SmallConcessions/index.tsx",
+    "name": "FillButton",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1634,
+    "end": 1833
+  },
+  "ref-127": {
+    "id": "ref-127",
+    "exportId": "export-118",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/SmallConcessions/index.tsx",
+    "name": "FillButton",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2187,
+    "end": 2237
+  },
+  "ref-129": {
+    "id": "ref-129",
+    "exportId": "export-118",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/SmallConcessions/index.tsx",
+    "name": "FillButton",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2616,
+    "end": 2694
+  },
+  "ref-131": {
+    "id": "ref-131",
+    "exportId": "export-118",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/SmallConcessions/index.tsx",
+    "name": "FillButton",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2793,
+    "end": 2901
+  },
+  "ref-135": {
+    "id": "ref-135",
+    "exportId": "export-133",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/RolesSummary/EditableUserField/index.tsx",
+    "name": "IconButton",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "CallExpression",
+    "start": 439,
+    "end": 449
+  },
+  "ref-138": {
+    "id": "ref-138",
+    "exportId": "export-136",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/RolesSummary/EditableUserField/index.tsx",
+    "name": "StrokeButton",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1310,
+    "end": 1426
+  },
+  "ref-142": {
+    "id": "ref-142",
+    "exportId": "export-140",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Notifications/NotificationsList/index.tsx",
+    "name": "TextButton",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2286,
+    "end": 2460
+  },
+  "ref-144": {
+    "id": "ref-144",
+    "exportId": "export-140",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Notifications/NotificationsList/index.tsx",
+    "name": "TextButton",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 3129,
+    "end": 3296
+  },
+  "ref-147": {
+    "id": "ref-147",
+    "exportId": "export-140",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/index.tsx",
+    "name": "TextButton",
+    "symbol": "StyledComponent",
+    "kind": "CallExpression",
+    "start": 781,
+    "end": 791
+  },
+  "ref-149": {
+    "id": "ref-149",
+    "exportId": "export-148",
+    "path": "/Users/aaron/workspace/Codecademy/node_modules/@codecademy/gamut/dist/ButtonDeprecated/index.d.ts",
+    "name": "buttonPresetThemes",
+    "symbol": "Identifier",
+    "kind": "TypeQuery",
+    "start": 539,
+    "end": 558
+  },
+  "ref-152": {
+    "id": "ref-152",
+    "exportId": "export-150",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Admin/AdminButton/index.tsx",
+    "name": "ButtonDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 282,
+    "end": 298
+  },
+  "ref-154": {
+    "id": "ref-154",
+    "exportId": "export-150",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/Purchases/ProReconcileButton/index.tsx",
+    "name": "ButtonDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 1074,
+    "end": 1234
+  },
+  "ref-157": {
+    "id": "ref-157",
+    "exportId": "export-150",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/FeatureFlags/UserFeatureFlags/FeatureFlagRow/index.tsx",
+    "name": "ButtonDeprecated",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 1061,
+    "end": 1218
+  },
+  "ref-164": {
+    "id": "ref-164",
+    "exportId": "export-162",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Admin/AdminCell/index.tsx",
+    "name": "CardShell",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 458,
+    "end": 675
+  },
+  "ref-168": {
+    "id": "ref-168",
+    "exportId": "export-166",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Admin/index.tsx",
+    "name": "ContentContainer",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1197,
+    "end": 2409
+  },
+  "ref-171": {
+    "id": "ref-171",
+    "exportId": "export-166",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/components/AdminPage/index.tsx",
+    "name": "ContentContainer",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 560,
+    "end": 888
+  },
+  "ref-175": {
+    "id": "ref-175",
+    "exportId": "export-173",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Loading/index.tsx",
+    "name": "Container",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 3571,
+    "end": 3681
+  },
+  "ref-179": {
+    "id": "ref-179",
+    "exportId": "export-177",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Loading/index.tsx",
+    "name": "Item",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 3645,
+    "end": 3664
+  },
+  "ref-185": {
+    "id": "ref-185",
+    "exportId": "export-183",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/index.tsx",
+    "name": "FormGroup",
+    "symbol": "FunctionComponent",
+    "kind": "CallExpression",
+    "start": 905,
+    "end": 914
+  },
+  "ref-188": {
+    "id": "ref-188",
+    "exportId": "export-186",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/index.tsx",
+    "name": "FormGroupLabel",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 2240,
+    "end": 2341
+  },
+  "ref-192": {
+    "id": "ref-192",
+    "exportId": "export-190",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/index.tsx",
+    "name": "FormGroupDescription",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2115,
+    "end": 2227
+  },
+  "ref-197": {
+    "id": "ref-197",
+    "exportId": "export-195",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Experiments/index.tsx",
+    "name": "Select",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 640,
+    "end": 646
+  },
+  "ref-204": {
+    "id": "ref-204",
+    "exportId": "export-202",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Admin/Cells/RemoveUser/index.tsx",
+    "name": "Input",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 661,
+    "end": 666
+  },
+  "ref-206": {
+    "id": "ref-206",
+    "exportId": "export-202",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Admin/Cells/UserRoleEditor/index.tsx",
+    "name": "Input",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 510,
+    "end": 515
+  },
+  "ref-208": {
+    "id": "ref-208",
+    "exportId": "export-202",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/SmallConcessions/index.tsx",
+    "name": "Input",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 1961,
+    "end": 1966
+  },
+  "ref-209": {
+    "id": "ref-209",
+    "exportId": "export-202",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/SmallConcessions/index.tsx",
+    "name": "Input",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 2108,
+    "end": 2113
+  },
+  "ref-211": {
+    "id": "ref-211",
+    "exportId": "export-202",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/index.tsx",
+    "name": "Input",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 2355,
+    "end": 2360
+  },
+  "ref-214": {
+    "id": "ref-214",
+    "exportId": "export-212",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Admin/AdminForm/index.tsx",
+    "name": "Form",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 397,
+    "end": 632
+  },
+  "ref-218": {
+    "id": "ref-218",
+    "exportId": "export-216",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Admin/Cells/RemoveUsers/index.tsx",
+    "name": "TextArea",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 913,
+    "end": 921
+  },
+  "ref-223": {
+    "id": "ref-223",
+    "exportId": "export-221",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/RoleEditor/index.tsx",
+    "name": "GridForm",
+    "symbol": "GridForm",
+    "kind": "JsxSelfClosingElement",
+    "start": 827,
+    "end": 835
+  },
+  "ref-225": {
+    "id": "ref-225",
+    "exportId": "export-221",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/RolesSummary/EditableUserField/index.tsx",
+    "name": "GridForm",
+    "symbol": "GridForm",
+    "kind": "JsxSelfClosingElement",
+    "start": 1050,
+    "end": 1058
+  },
+  "ref-227": {
+    "id": "ref-227",
+    "exportId": "export-221",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/ProAccessEditor/index.tsx",
+    "name": "GridForm",
+    "symbol": "GridForm",
+    "kind": "JsxSelfClosingElement",
+    "start": 1304,
+    "end": 1312
+  },
+  "ref-229": {
+    "id": "ref-229",
+    "exportId": "export-221",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/StudentAccessEditor/index.tsx",
+    "name": "GridForm",
+    "symbol": "GridForm",
+    "kind": "JsxSelfClosingElement",
+    "start": 692,
+    "end": 700
+  },
+  "ref-231": {
+    "id": "ref-231",
+    "exportId": "export-221",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/SubscriptionEditor/SubscriptionConverter.tsx",
+    "name": "GridForm",
+    "symbol": "GridForm",
+    "kind": "JsxSelfClosingElement",
+    "start": 1498,
+    "end": 1506
+  },
+  "ref-233": {
+    "id": "ref-233",
+    "exportId": "export-221",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/SubscriptionEditor/SubscriptionPostponer.tsx",
+    "name": "GridForm",
+    "symbol": "GridForm",
+    "kind": "JsxSelfClosingElement",
+    "start": 838,
+    "end": 846
+  },
+  "ref-235": {
+    "id": "ref-235",
+    "exportId": "export-221",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserActivity/index.tsx",
+    "name": "GridForm",
+    "symbol": "GridForm",
+    "kind": "JsxSelfClosingElement",
+    "start": 1853,
+    "end": 1861
+  },
+  "ref-236": {
+    "id": "ref-236",
+    "exportId": "export-221",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserActivity/index.tsx",
+    "name": "GridForm",
+    "symbol": "GridForm",
+    "kind": "JsxSelfClosingElement",
+    "start": 3516,
+    "end": 3524
+  },
+  "ref-237": {
+    "id": "ref-237",
+    "exportId": "export-221",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserActivity/index.tsx",
+    "name": "GridForm",
+    "symbol": "GridForm",
+    "kind": "JsxSelfClosingElement",
+    "start": 5453,
+    "end": 5461
+  },
+  "ref-239": {
+    "id": "ref-239",
+    "exportId": "export-221",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/AchievementGrants/index.tsx",
+    "name": "GridForm",
+    "symbol": "GridForm",
+    "kind": "JsxSelfClosingElement",
+    "start": 2329,
+    "end": 2337
+  },
+  "ref-241": {
+    "id": "ref-241",
+    "exportId": "export-221",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/CompletionGrants/index.tsx",
+    "name": "GridForm",
+    "symbol": "GridForm",
+    "kind": "JsxSelfClosingElement",
+    "start": 2261,
+    "end": 2269
+  },
+  "ref-243": {
+    "id": "ref-243",
+    "exportId": "export-221",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/ProgressGrants/ProgressGrantsForms/ProgressGrantsForm/index.tsx",
+    "name": "GridForm",
+    "symbol": "GridForm",
+    "kind": "JsxSelfClosingElement",
+    "start": 466,
+    "end": 474
+  },
+  "ref-245": {
+    "id": "ref-245",
+    "exportId": "export-221",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/ProgressGrants/index.tsx",
+    "name": "GridForm",
+    "symbol": "GridForm",
+    "kind": "JsxSelfClosingElement",
+    "start": 1557,
+    "end": 1565
+  },
+  "ref-247": {
+    "id": "ref-247",
+    "exportId": "export-221",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Experiments/AdminExperimentsForm/index.tsx",
+    "name": "GridForm",
+    "symbol": "GridForm",
+    "kind": "JsxSelfClosingElement",
+    "start": 1388,
+    "end": 1396
+  },
+  "ref-249": {
+    "id": "ref-249",
+    "exportId": "export-221",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/FeatureFlags/UserFeatureFlags/index.tsx",
+    "name": "GridForm",
+    "symbol": "GridForm",
+    "kind": "JsxSelfClosingElement",
+    "start": 1159,
+    "end": 1167
+  },
+  "ref-251": {
+    "id": "ref-251",
+    "exportId": "export-221",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Notifications/index.tsx",
+    "name": "GridForm",
+    "symbol": "GridForm",
+    "kind": "JsxSelfClosingElement",
+    "start": 2129,
+    "end": 2137
+  },
+  "ref-253": {
+    "id": "ref-253",
+    "exportId": "export-221",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestPlan/components/Form/index.tsx",
+    "name": "GridForm",
+    "symbol": "GridForm",
+    "kind": "JsxSelfClosingElement",
+    "start": 784,
+    "end": 792
+  },
+  "ref-255": {
+    "id": "ref-255",
+    "exportId": "export-221",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Form/index.tsx",
+    "name": "GridForm",
+    "symbol": "GridForm",
+    "kind": "JsxSelfClosingElement",
+    "start": 925,
+    "end": 933
+  },
+  "ref-257": {
+    "id": "ref-257",
+    "exportId": "export-221",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/PeerMatching/index.tsx",
+    "name": "GridForm",
+    "symbol": "GridForm",
+    "kind": "JsxSelfClosingElement",
+    "start": 1242,
+    "end": 1250
+  },
+  "ref-262": {
+    "id": "ref-262",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Notifications/NotificationsList/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2188,
+    "end": 2255
+  },
+  "ref-265": {
+    "id": "ref-265",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/components/AdminHeading/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 406,
+    "end": 590
+  },
+  "ref-268": {
+    "id": "ref-268",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Admin/Cells/Notifications/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 246,
+    "end": 297
+  },
+  "ref-271": {
+    "id": "ref-271",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/RoleEditor/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 746,
+    "end": 819
+  },
+  "ref-273": {
+    "id": "ref-273",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/RoleEditor/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2034,
+    "end": 2057
+  },
+  "ref-276": {
+    "id": "ref-276",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/RolesSummary/DeletedAccountForm/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 664,
+    "end": 754
+  },
+  "ref-279": {
+    "id": "ref-279",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/RolesSummary/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 985,
+    "end": 1046
+  },
+  "ref-282": {
+    "id": "ref-282",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/ProAccessEditor/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 753,
+    "end": 839
+  },
+  "ref-284": {
+    "id": "ref-284",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/ProAccessEditor/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 846,
+    "end": 1025
+  },
+  "ref-286": {
+    "id": "ref-286",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/ProAccessEditor/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1071,
+    "end": 1287
+  },
+  "ref-288": {
+    "id": "ref-288",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/ProAccessEditor/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2111,
+    "end": 2134
+  },
+  "ref-291": {
+    "id": "ref-291",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/StudentAccessEditor/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 511,
+    "end": 607
+  },
+  "ref-293": {
+    "id": "ref-293",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/StudentAccessEditor/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 614,
+    "end": 684
+  },
+  "ref-295": {
+    "id": "ref-295",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/StudentAccessEditor/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1098,
+    "end": 1121
+  },
+  "ref-298": {
+    "id": "ref-298",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/SubscriptionEditor/SubscriptionConverter.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 647,
+    "end": 795
+  },
+  "ref-300": {
+    "id": "ref-300",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/SubscriptionEditor/SubscriptionConverter.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 802,
+    "end": 1056
+  },
+  "ref-302": {
+    "id": "ref-302",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/SubscriptionEditor/SubscriptionConverter.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1137,
+    "end": 1481
+  },
+  "ref-304": {
+    "id": "ref-304",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/SubscriptionEditor/SubscriptionConverter.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2035,
+    "end": 2058
+  },
+  "ref-307": {
+    "id": "ref-307",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/SubscriptionEditor/SubscriptionPostponer.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 642,
+    "end": 830
+  },
+  "ref-309": {
+    "id": "ref-309",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/SubscriptionEditor/SubscriptionPostponer.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1852,
+    "end": 1875
+  },
+  "ref-312": {
+    "id": "ref-312",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/SubscriptionEditor/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 776,
+    "end": 855
+  },
+  "ref-314": {
+    "id": "ref-314",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/SubscriptionEditor/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 920,
+    "end": 977
+  },
+  "ref-316": {
+    "id": "ref-316",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/SubscriptionEditor/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1063,
+    "end": 1124
+  },
+  "ref-318": {
+    "id": "ref-318",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/SubscriptionEditor/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1443,
+    "end": 1498
+  },
+  "ref-320": {
+    "id": "ref-320",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/SubscriptionEditor/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1643,
+    "end": 1697
+  },
+  "ref-323": {
+    "id": "ref-323",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/TypeEditor/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 915,
+    "end": 1094
+  },
+  "ref-326": {
+    "id": "ref-326",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/AchievementGrants/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1931,
+    "end": 2129
+  },
+  "ref-328": {
+    "id": "ref-328",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/AchievementGrants/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2140,
+    "end": 2236
+  },
+  "ref-330": {
+    "id": "ref-330",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/AchievementGrants/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2293,
+    "end": 2316
+  },
+  "ref-333": {
+    "id": "ref-333",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/CompletionGrants/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2019,
+    "end": 2168
+  },
+  "ref-335": {
+    "id": "ref-335",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/CompletionGrants/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2225,
+    "end": 2248
+  },
+  "ref-338": {
+    "id": "ref-338",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/ProgressGrants/ProgressGrantsForms/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 501,
+    "end": 574
+  },
+  "ref-341": {
+    "id": "ref-341",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/ProgressGrants/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 898,
+    "end": 1057
+  },
+  "ref-344": {
+    "id": "ref-344",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 927,
+    "end": 1099
+  },
+  "ref-346": {
+    "id": "ref-346",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1108,
+    "end": 1145
+  },
+  "ref-349": {
+    "id": "ref-349",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/FeatureFlags/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 460,
+    "end": 558
+  },
+  "ref-351": {
+    "id": "ref-351",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/FeatureFlags/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 677,
+    "end": 772
+  },
+  "ref-354": {
+    "id": "ref-354",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Notifications/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1717,
+    "end": 1921
+  },
+  "ref-356": {
+    "id": "ref-356",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Notifications/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1932,
+    "end": 2100
+  },
+  "ref-359": {
+    "id": "ref-359",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestPlan/components/Form/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 619,
+    "end": 702
+  },
+  "ref-361": {
+    "id": "ref-361",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestPlan/components/Form/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 709,
+    "end": 776
+  },
+  "ref-364": {
+    "id": "ref-364",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestPlan/components/Instructions/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 557,
+    "end": 598
+  },
+  "ref-367": {
+    "id": "ref-367",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Form/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 387,
+    "end": 448
+  },
+  "ref-369": {
+    "id": "ref-369",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Form/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 834,
+    "end": 917
+  },
+  "ref-372": {
+    "id": "ref-372",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Instructions/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 551,
+    "end": 592
+  },
+  "ref-374": {
+    "id": "ref-374",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Instructions/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1111,
+    "end": 1151
+  },
+  "ref-377": {
+    "id": "ref-377",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Sharing/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 557,
+    "end": 641
+  },
+  "ref-379": {
+    "id": "ref-379",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Sharing/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 681,
+    "end": 760
+  },
+  "ref-381": {
+    "id": "ref-381",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Sharing/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 982,
+    "end": 1082
+  },
+  "ref-384": {
+    "id": "ref-384",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/PeerMatching/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 898,
+    "end": 1234
+  },
+  "ref-387": {
+    "id": "ref-387",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Error500Contents/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 417,
+    "end": 484
+  },
+  "ref-389": {
+    "id": "ref-389",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Error500Contents/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 489,
+    "end": 535
+  },
+  "ref-391": {
+    "id": "ref-391",
+    "exportId": "export-260",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Error500Contents/index.tsx",
+    "name": "Text",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 657,
+    "end": 839
+  },
+  "ref-399": {
+    "id": "ref-399",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/node_modules/@codecademy/gamut/dist/GridForm/GridFormButtons/index.d.ts",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "TypeQuery",
+    "start": 576,
+    "end": 583
+  },
+  "ref-401": {
+    "id": "ref-401",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/Purchases/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 874,
+    "end": 2536
+  },
+  "ref-403": {
+    "id": "ref-403",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/Purchases/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2545,
+    "end": 3545
+  },
+  "ref-406": {
+    "id": "ref-406",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/TypeEditor/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2362,
+    "end": 2480
+  },
+  "ref-408": {
+    "id": "ref-408",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/TypeEditor/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2489,
+    "end": 2610
+  },
+  "ref-410": {
+    "id": "ref-410",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/TypeEditor/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2619,
+    "end": 2741
+  },
+  "ref-413": {
+    "id": "ref-413",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserActivity/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1152,
+    "end": 1351
+  },
+  "ref-415": {
+    "id": "ref-415",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserActivity/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1360,
+    "end": 2780
+  },
+  "ref-416": {
+    "id": "ref-416",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserActivity/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1416,
+    "end": 1650
+  },
+  "ref-418": {
+    "id": "ref-418",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserActivity/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1664,
+    "end": 2738
+  },
+  "ref-421": {
+    "id": "ref-421",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserActivity/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2789,
+    "end": 2991
+  },
+  "ref-423": {
+    "id": "ref-423",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserActivity/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 3000,
+    "end": 5069
+  },
+  "ref-424": {
+    "id": "ref-424",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserActivity/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 3056,
+    "end": 3298
+  },
+  "ref-426": {
+    "id": "ref-426",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserActivity/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 3311,
+    "end": 5027
+  },
+  "ref-429": {
+    "id": "ref-429",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserActivity/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 5078,
+    "end": 6400
+  },
+  "ref-432": {
+    "id": "ref-432",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/AchievementGrants/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1803,
+    "end": 2254
+  },
+  "ref-434": {
+    "id": "ref-434",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/AchievementGrants/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2263,
+    "end": 3617
+  },
+  "ref-437": {
+    "id": "ref-437",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/CompletionGrants/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1892,
+    "end": 2186
+  },
+  "ref-439": {
+    "id": "ref-439",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/CompletionGrants/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2195,
+    "end": 3784
+  },
+  "ref-442": {
+    "id": "ref-442",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/ProgressGrants/ProgressGrantsForms/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 462,
+    "end": 649
+  },
+  "ref-445": {
+    "id": "ref-445",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/ProgressGrants/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 879,
+    "end": 1528
+  },
+  "ref-447": {
+    "id": "ref-447",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/ProgressGrants/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1537,
+    "end": 2490
+  },
+  "ref-449": {
+    "id": "ref-449",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/ProgressGrants/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2499,
+    "end": 2696
+  },
+  "ref-452": {
+    "id": "ref-452",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 709,
+    "end": 813
+  },
+  "ref-454": {
+    "id": "ref-454",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 822,
+    "end": 945
+  },
+  "ref-456": {
+    "id": "ref-456",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 954,
+    "end": 1021
+  },
+  "ref-459": {
+    "id": "ref-459",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "CallExpression",
+    "start": 607,
+    "end": 613
+  },
+  "ref-460": {
+    "id": "ref-460",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 872,
+    "end": 1161
+  },
+  "ref-462": {
+    "id": "ref-462",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1198,
+    "end": 1316
+  },
+  "ref-464": {
+    "id": "ref-464",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1593,
+    "end": 1677
+  },
+  "ref-467": {
+    "id": "ref-467",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/SmallConcessions/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1588,
+    "end": 1868
+  },
+  "ref-469": {
+    "id": "ref-469",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/SmallConcessions/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1884,
+    "end": 2269
+  },
+  "ref-471": {
+    "id": "ref-471",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/SmallConcessions/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2276,
+    "end": 2753
+  },
+  "ref-473": {
+    "id": "ref-473",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/SmallConcessions/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2760,
+    "end": 3007
+  },
+  "ref-476": {
+    "id": "ref-476",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2043,
+    "end": 2802
+  },
+  "ref-479": {
+    "id": "ref-479",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/FeatureFlags/UserFeatureFlags/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1077,
+    "end": 2082
+  },
+  "ref-480": {
+    "id": "ref-480",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/FeatureFlags/UserFeatureFlags/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1139,
+    "end": 1746
+  },
+  "ref-482": {
+    "id": "ref-482",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/FeatureFlags/UserFeatureFlags/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1755,
+    "end": 2048
+  },
+  "ref-486": {
+    "id": "ref-486",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/FeatureFlags/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 401,
+    "end": 609
+  },
+  "ref-488": {
+    "id": "ref-488",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/FeatureFlags/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 618,
+    "end": 1036
+  },
+  "ref-491": {
+    "id": "ref-491",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Sharing/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 540,
+    "end": 657
+  },
+  "ref-493": {
+    "id": "ref-493",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Sharing/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 664,
+    "end": 776
+  },
+  "ref-495": {
+    "id": "ref-495",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Sharing/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 783,
+    "end": 813
+  },
+  "ref-497": {
+    "id": "ref-497",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Sharing/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 820,
+    "end": 957
+  },
+  "ref-499": {
+    "id": "ref-499",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Sharing/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 965,
+    "end": 1098
+  },
+  "ref-501": {
+    "id": "ref-501",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Sharing/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1105,
+    "end": 1145
+  },
+  "ref-503": {
+    "id": "ref-503",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Sharing/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1152,
+    "end": 1191
+  },
+  "ref-505": {
+    "id": "ref-505",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Sharing/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1198,
+    "end": 1256
+  },
+  "ref-507": {
+    "id": "ref-507",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Sharing/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1263,
+    "end": 1320
+  },
+  "ref-509": {
+    "id": "ref-509",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Sharing/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1327,
+    "end": 1370
+  },
+  "ref-511": {
+    "id": "ref-511",
+    "exportId": "export-397",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Sharing/index.tsx",
+    "name": "Column",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1377,
+    "end": 1419
+  },
+  "ref-515": {
+    "id": "ref-515",
+    "exportId": "export-513",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/Purchases/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 841,
+    "end": 3565
+  },
+  "ref-518": {
+    "id": "ref-518",
+    "exportId": "export-513",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/TypeEditor/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 2332,
+    "end": 2761
+  },
+  "ref-521": {
+    "id": "ref-521",
+    "exportId": "export-513",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserActivity/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1119,
+    "end": 6420
+  },
+  "ref-522": {
+    "id": "ref-522",
+    "exportId": "export-513",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserActivity/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1379,
+    "end": 2762
+  },
+  "ref-524": {
+    "id": "ref-524",
+    "exportId": "export-513",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserActivity/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 3019,
+    "end": 5051
+  },
+  "ref-528": {
+    "id": "ref-528",
+    "exportId": "export-513",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/AchievementGrants/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1770,
+    "end": 3637
+  },
+  "ref-531": {
+    "id": "ref-531",
+    "exportId": "export-513",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/CompletionGrants/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1859,
+    "end": 3804
+  },
+  "ref-534": {
+    "id": "ref-534",
+    "exportId": "export-513",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/ProgressGrants/ProgressGrantsForms/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 407,
+    "end": 677
+  },
+  "ref-537": {
+    "id": "ref-537",
+    "exportId": "export-513",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/ProgressGrants/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 846,
+    "end": 2716
+  },
+  "ref-540": {
+    "id": "ref-540",
+    "exportId": "export-513",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 661,
+    "end": 1041
+  },
+  "ref-543": {
+    "id": "ref-543",
+    "exportId": "export-513",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/SmallConcessions/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1513,
+    "end": 3025
+  },
+  "ref-546": {
+    "id": "ref-546",
+    "exportId": "export-513",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1995,
+    "end": 2944
+  },
+  "ref-549": {
+    "id": "ref-549",
+    "exportId": "export-513",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/FeatureFlags/UserFeatureFlags/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 1106,
+    "end": 2068
+  },
+  "ref-552": {
+    "id": "ref-552",
+    "exportId": "export-513",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/FeatureFlags/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 371,
+    "end": 1056
+  },
+  "ref-555": {
+    "id": "ref-555",
+    "exportId": "export-513",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Sharing/index.tsx",
+    "name": "LayoutGrid",
+    "symbol": "StyledComponent",
+    "kind": "JsxElement",
+    "start": 489,
+    "end": 1437
+  },
+  "ref-562": {
+    "id": "ref-562",
+    "exportId": "export-560",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Notifications/NotificationsList/index.tsx",
+    "name": "NotificationList",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 2696,
+    "end": 2712
+  },
+  "ref-567": {
+    "id": "ref-567",
+    "exportId": "export-565",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Notifications/NotificationsList/index.tsx",
+    "name": "Pattern",
+    "symbol": "FunctionComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 2557,
+    "end": 2564
+  },
+  "ref-599": {
+    "id": "ref-599",
+    "exportId": "export-597",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/libs/withEmotion.tsx",
+    "name": "GamutProvider",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 571,
+    "end": 747
+  },
+  "ref-608": {
+    "id": "ref-608",
+    "exportId": "export-606",
+    "path": "/Users/aaron/workspace/Codecademy/node_modules/@codecademy/gamut-styles/dist/Background.d.ts",
+    "name": "ColorMode",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "TypeQuery",
+    "start": 163,
+    "end": 173
+  },
+  "ref-611": {
+    "id": "ref-611",
+    "exportId": "export-609",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Notifications/NotificationsList/index.tsx",
+    "name": "Background",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxElement",
+    "start": 3347,
+    "end": 3743
+  },
+  "ref-618": {
+    "id": "ref-618",
+    "exportId": "export-617",
+    "path": "/Users/aaron/workspace/Codecademy/node_modules/@codecademy/gamut-styles/dist/variance/utils.d.ts",
+    "name": "createStyledOptions",
+    "symbol": "createStyledOptions",
+    "kind": "TypeQuery",
+    "start": 5189,
+    "end": 5209
+  },
+  "ref-629": {
+    "id": "ref-629",
+    "exportId": "export-628",
+    "path": "/Users/aaron/workspace/Codecademy/node_modules/@codecademy/gamut-styles/dist/variables/responsive.d.ts",
+    "name": "breakpoints",
+    "symbol": "Identifier",
+    "kind": "TypeQuery",
+    "start": 216,
+    "end": 228
+  },
+  "ref-632": {
+    "id": "ref-632",
+    "exportId": "export-630",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/index.tsx",
+    "name": "mediaQueries",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 829,
+    "end": 841
+  },
+  "ref-636": {
+    "id": "ref-636",
+    "exportId": "export-634",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/index.tsx",
+    "name": "spacing",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 810,
+    "end": 817
+  },
+  "ref-647": {
+    "id": "ref-647",
+    "exportId": "export-645",
+    "path": "/Users/aaron/workspace/Codecademy/node_modules/@codecademy/gamut-styles/dist/styles/transitionConcat.d.ts",
+    "name": "timing",
+    "symbol": "Identifier",
+    "kind": "TypeQuery",
+    "start": 223,
+    "end": 230
+  },
+  "ref-651": {
+    "id": "ref-651",
+    "exportId": "export-649",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Loading/index.tsx",
+    "name": "deprecatedColors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 424,
+    "end": 441
+  },
+  "ref-652": {
+    "id": "ref-652",
+    "exportId": "export-649",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Loading/index.tsx",
+    "name": "deprecatedColors",
+    "symbol": "Identifier",
+    "kind": "PropertyAccessExpression",
+    "start": 463,
+    "end": 480
+  },
+  "ref-660": {
+    "id": "ref-660",
+    "exportId": "export-658",
+    "path": "/Users/aaron/workspace/Codecademy/node_modules/@codecademy/gamut-labs/dist/ProLogo/index.d.ts",
+    "name": "colors",
+    "symbol": "Identifier",
+    "kind": "TypeQuery",
+    "start": 163,
+    "end": 170
+  },
+  "ref-661": {
+    "id": "ref-661",
+    "exportId": "export-658",
+    "path": "/Users/aaron/workspace/Codecademy/node_modules/@codecademy/gamut-labs/dist/ProLogo/index.d.ts",
+    "name": "colors",
+    "symbol": "Identifier",
+    "kind": "TypeQuery",
+    "start": 346,
+    "end": 353
+  },
+  "ref-663": {
+    "id": "ref-663",
+    "exportId": "export-658",
+    "path": "/Users/aaron/workspace/Codecademy/node_modules/@codecademy/gamut-labs/dist/ProLogoAlt/index.d.ts",
+    "name": "colors",
+    "symbol": "Identifier",
+    "kind": "TypeQuery",
+    "start": 176,
+    "end": 183
+  },
+  "ref-664": {
+    "id": "ref-664",
+    "exportId": "export-658",
+    "path": "/Users/aaron/workspace/Codecademy/node_modules/@codecademy/gamut-labs/dist/ProLogoAlt/index.d.ts",
+    "name": "colors",
+    "symbol": "Identifier",
+    "kind": "TypeQuery",
+    "start": 213,
+    "end": 220
+  },
+  "ref-666": {
+    "id": "ref-666",
+    "exportId": "export-658",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Notifications/NotificationsList/notificationsListHelpers.ts",
+    "name": "colors",
+    "symbol": "Identifier",
+    "kind": "ElementAccessExpression",
+    "start": 2479,
+    "end": 2486
+  },
+  "ref-685": {
+    "id": "ref-685",
+    "exportId": "export-683",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/RolesSummary/index.tsx",
+    "name": "themed",
+    "symbol": "themed",
+    "kind": "CallExpression",
+    "start": 604,
+    "end": 610
+  },
+  "ref-687": {
+    "id": "ref-687",
+    "exportId": "export-686",
+    "path": "/Users/aaron/workspace/Codecademy/node_modules/@codecademy/gamut-styles/dist/index.d.ts",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "ExportSpecifier",
+    "start": 315,
+    "end": 325
+  },
+  "ref-688": {
+    "id": "ref-688",
+    "exportId": "export-686",
+    "path": "/Users/aaron/workspace/Codecademy/node_modules/@codecademy/gamut-styles/dist/themes/core.d.ts",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "TypeQuery",
+    "start": 14202,
+    "end": 14212
+  },
+  "ref-689": {
+    "id": "ref-689",
+    "exportId": "export-686",
+    "path": "/Users/aaron/workspace/Codecademy/node_modules/@codecademy/gamut-styles/dist/index.d.ts",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "ExportSpecifier",
+    "start": 328,
+    "end": 334
+  },
+  "ref-691": {
+    "id": "ref-691",
+    "exportId": "export-686",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/index.tsx",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "ShorthandPropertyAssignment",
+    "start": 1072,
+    "end": 1078
+  },
+  "ref-693": {
+    "id": "ref-693",
+    "exportId": "export-686",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/ProgressGrants/ProgressGrantsForms/ProgressGrantsForm/__tests__/ProgressGrantsForm-test.tsx",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "JsxExpression",
+    "start": 596,
+    "end": 601
+  },
+  "ref-694": {
+    "id": "ref-694",
+    "exportId": "export-686",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/ProgressGrants/ProgressGrantsForms/ProgressGrantsForm/__tests__/ProgressGrantsForm-test.tsx",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "JsxExpression",
+    "start": 997,
+    "end": 1002
+  },
+  "ref-695": {
+    "id": "ref-695",
+    "exportId": "export-686",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/UserGrants/ProgressGrants/ProgressGrantsForms/ProgressGrantsForm/__tests__/ProgressGrantsForm-test.tsx",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "JsxExpression",
+    "start": 1666,
+    "end": 1671
+  },
+  "ref-697": {
+    "id": "ref-697",
+    "exportId": "export-686",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/FeatureFlags/UserFeatureFlags/__tests__/UserFeatureFlags-test.tsx",
+    "name": "coreTheme",
+    "symbol": "Identifier",
+    "kind": "JsxExpression",
+    "start": 1134,
+    "end": 1139
+  },
+  "ref-699": {
+    "id": "ref-699",
+    "exportId": "export-698",
+    "path": "/Users/aaron/workspace/Codecademy/node_modules/@codecademy/gamut-styles/dist/themes/platform.d.ts",
+    "name": "platformTheme",
+    "symbol": "Identifier",
+    "kind": "TypeQuery",
+    "start": 31776,
+    "end": 31790
+  },
+  "ref-701": {
+    "id": "ref-701",
+    "exportId": "export-700",
+    "path": "/Users/aaron/workspace/Codecademy/node_modules/@codecademy/gamut-styles/dist/themes/admin.d.ts",
+    "name": "adminTheme",
+    "symbol": "Identifier",
+    "kind": "TypeQuery",
+    "start": 26762,
+    "end": 26773
+  },
+  "ref-710": {
+    "id": "ref-710",
+    "exportId": "export-709",
+    "path": "/Users/aaron/workspace/Codecademy/node_modules/@codecademy/gamut-labs/dist/lib/breakpointHooks/index.d.ts",
+    "name": "breakpoints",
+    "symbol": "Identifier",
+    "kind": "TypeQuery",
+    "start": 1167,
+    "end": 1179
+  },
+  "ref-725": {
+    "id": "ref-725",
+    "exportId": "export-723",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/AppHeader/Notifications/index.tsx",
+    "name": "HeaderTab",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 498,
+    "end": 630
+  },
+  "ref-727": {
+    "id": "ref-727",
+    "exportId": "export-723",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/AppHeader/Notifications/index.tsx",
+    "name": "HeaderTab",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 820,
+    "end": 961
+  },
+  "ref-734": {
+    "id": "ref-734",
+    "exportId": "export-733",
+    "path": "/Users/aaron/workspace/Codecademy/node_modules/@codecademy/gamut-labs/dist/Logo/index.d.ts",
+    "name": "Logo",
+    "symbol": "Logo",
+    "kind": "ModuleDeclaration",
+    "start": 367,
+    "end": 372
+  },
+  "ref-743": {
+    "id": "ref-743",
+    "exportId": "export-741",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Notifications/NotificationsDropdown/index.tsx",
+    "name": "Popover",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 1825,
+    "end": 2283
+  },
+  "ref-762": {
+    "id": "ref-762",
+    "exportId": "export-760",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/components/GlobalAdminPage/index.tsx",
+    "name": "GlobalPage",
+    "symbol": "FunctionComponent",
+    "kind": "JsxElement",
+    "start": 528,
+    "end": 802
+  },
+  "ref-779": {
+    "id": "ref-779",
+    "exportId": "export-777",
+    "path": "/Users/aaron/workspace/Codecademy/node_modules/@codecademy/gamut/dist/Form/Input.d.ts",
+    "name": "AlertIcon",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "TypeQuery",
+    "start": 1218,
+    "end": 1228
+  },
+  "ref-795": {
+    "id": "ref-795",
+    "exportId": "export-793",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/components/Notifications/NotificationBell/index.tsx",
+    "name": "BellIcon",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 1571,
+    "end": 1579
+  },
+  "ref-827": {
+    "id": "ref-827",
+    "exportId": "export-825",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/RolesSummary/EditableUserField/index.tsx",
+    "name": "EditIcon",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxExpression",
+    "start": 906,
+    "end": 914
+  },
+  "ref-863": {
+    "id": "ref-863",
+    "exportId": "export-861",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestPlan/components/Instructions/index.tsx",
+    "name": "InfoCircleIcon",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 499,
+    "end": 513
+  },
+  "ref-865": {
+    "id": "ref-865",
+    "exportId": "export-861",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Instructions/index.tsx",
+    "name": "InfoCircleIcon",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 493,
+    "end": 507
+  },
+  "ref-934": {
+    "id": "ref-934",
+    "exportId": "export-932",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/TestUser/components/Sharing/index.tsx",
+    "name": "ShareIcon",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 613,
+    "end": 622
+  },
+  "ref-967": {
+    "id": "ref-967",
+    "exportId": "export-965",
+    "path": "/Users/aaron/workspace/Codecademy/webpack/assets/admin/scenes/Concessions/RoleInfoColumns/TypeEditor/index.tsx",
+    "name": "MiniInfoCircleIcon",
+    "symbol": "ForwardRefExoticComponent",
+    "kind": "JsxSelfClosingElement",
+    "start": 799,
+    "end": 817
+  }
+}
